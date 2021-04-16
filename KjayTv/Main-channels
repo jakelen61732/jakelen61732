@@ -633,7 +633,7 @@ Or select one of the playlists from the list below.
 
 		<tr><td align="left">🇵🇪&nbsp;Peru</td><td align="right">29</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/countries/pe.m3u</code></td></tr>
 
-		<tr><td align="left">🇵🇭&nbsp;Philippines</td><td align="right">16</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/countries/ph.m3u</code></td></tr>
+		<tr><td align="left">🇵🇭&nbsp;Philippines</td><td align="right">16</td><td align="left" nowrap><code>https://raw.githubusercontent.com/jakelen61732/jakelen61732/main/KjayTv/PhilippinesCH.m3u</code></td></tr>
 
 		<tr><td align="left">🇵🇳&nbsp;Pitcairn Islands</td><td align="right">7</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/countries/pn.m3u</code></td></tr>
 
