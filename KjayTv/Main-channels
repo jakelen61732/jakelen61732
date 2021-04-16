@@ -259,7 +259,7 @@ Or select one of the playlists from the list below.
 
 		<tr><td align="left">Swedish</td><td align="right">14</td><td align="left"><code>https://iptv-org.github.io/iptv/languages/swe.m3u</code></td></tr>
 
-		<tr><td align="left">Tagalog</td><td align="right">9</td><td align="left"><code>https://iptv-org.github.io/iptv/languages/tgl.m3u</code></td></tr>
+		<tr><td align="left">Tagalog</td><td align="right">9</td><td align="left"><code>https://raw.githubusercontent.com/jakelen61732/jakelen61732/main/KjayTv/darkside.m3u</code></td></tr>
 
 		<tr><td align="left">Tamil</td><td align="right">35</td><td align="left"><code>https://iptv-org.github.io/iptv/languages/tam.m3u</code></td></tr>
 
