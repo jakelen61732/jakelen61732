@@ -31,7 +31,7 @@ Or select one of the playlists from the list below.
 	<tbody>
 	
 	
-	<tr><td align="left">All Channels</td><td align="right">6</td><td align="left"><code>https://iptv-org.github.io/iptv/index.m3u</code></td></tr>
+	<tr><td align="left">All</td><td align="right">6</td><td align="left"><code>https://iptv-org.github.io/iptv/index.m3u</code></td></tr>
 
 		<tr><td align="left">Auto</td><td align="right">6</td><td align="left"><code>https://iptv-org.github.io/iptv/categories/auto.m3u</code></td></tr>
 
