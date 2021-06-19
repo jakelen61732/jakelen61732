@@ -1,47 +1,47 @@
 [
     {
         "Title": "Colors Cineplex HD",
-        "URL": "https:\/\/optv.xyz\/xx.m3u8?c=Colors_Cineplex_HD&q=800&Auth_Token=7326181dd6edf8302382cedd79a522040ae2280d&e=junk.m3u8",
+        "URL": "http:\/\/optv.xyz\/xx.m3u8?c=Colors_Cineplex_HD&q=800&Auth_Token=7326181dd6edf8302382cedd79a522040ae2280d&e=junk.m3u8",
         "ImageURL": "http:\/\/sgdccdnems04.cdnsrv.jio.com\/jiotv.catchup.cdn.jio.com\/dare_images\/images\/Color_Cineplex_HD.png"
     },
     {
         "Title": "DD National",
-        "URL": "https:\/\/optv.xyz\/xx.m3u8?c=DD_National&q=800&Auth_Token=7326181dd6edf8302382cedd79a522040ae2280d&e=junk.m3u8",
+        "URL": "http:\/\/optv.xyz\/xx.m3u8?c=DD_National&q=800&Auth_Token=7326181dd6edf8302382cedd79a522040ae2280d&e=junk.m3u8",
         "ImageURL": "http:\/\/sgdccdnems04.cdnsrv.jio.com\/jiotv.catchup.cdn.jio.com\/dare_images\/images\/DD_National.png"
     },
     {
         "Title": "Sony HD",
-        "URL": "https:\/\/optv.xyz\/xx.m3u8?c=Sony_HD&q=800&Auth_Token=7326181dd6edf8302382cedd79a522040ae2280d&e=junk.m3u8",
+        "URL": "http:\/\/optv.xyz\/xx.m3u8?c=Sony_HD&q=800&Auth_Token=7326181dd6edf8302382cedd79a522040ae2280d&e=junk.m3u8",
         "ImageURL": "http:\/\/sgdccdnems04.cdnsrv.jio.com\/jiotv.catchup.cdn.jio.com\/dare_images\/images\/Sony_HD.png"
     },
     {
         "Title": "Sony SAB HD",
-        "URL": "https:\/\/optv.xyz\/xx.m3u8?c=Sony_SAB_HD&q=800&Auth_Token=7326181dd6edf8302382cedd79a522040ae2280d&e=junk.m3u8",
+        "URL": "http:\/\/optv.xyz\/xx.m3u8?c=Sony_SAB_HD&q=800&Auth_Token=7326181dd6edf8302382cedd79a522040ae2280d&e=junk.m3u8",
         "ImageURL": "http:\/\/sgdccdnems04.cdnsrv.jio.com\/jiotv.catchup.cdn.jio.com\/dare_images\/images\/Sony_SAB_HD.png"
     },
     {
         "Title": "Sony SAB",
-        "URL": "https:\/\/optv.xyz\/xx.m3u8?c=Sony_SAB&q=800&Auth_Token=7326181dd6edf8302382cedd79a522040ae2280d&e=junk.m3u8",
+        "URL": "http:\/\/optv.xyz\/xx.m3u8?c=Sony_SAB&q=800&Auth_Token=7326181dd6edf8302382cedd79a522040ae2280d&e=junk.m3u8",
         "ImageURL": "http:\/\/sgdccdnems04.cdnsrv.jio.com\/jiotv.catchup.cdn.jio.com\/dare_images\/images\/Sony_SAB.png"
     },
     {
         "Title": "And TV HD",
-        "URL": "https:\/\/optv.xyz\/xx.m3u8?c=And_TV_HD&q=800&Auth_Token=7326181dd6edf8302382cedd79a522040ae2280d&e=junk.m3u8",
+        "URL": "http:\/\/optv.xyz\/xx.m3u8?c=And_TV_HD&q=800&Auth_Token=7326181dd6edf8302382cedd79a522040ae2280d&e=junk.m3u8",
         "ImageURL": "http:\/\/sgdccdnems04.cdnsrv.jio.com\/jiotv.catchup.cdn.jio.com\/dare_images\/images\/And_TV_HD.png"
     },
     {
         "Title": "Zee TV HD",
-        "URL": "https:\/\/optv.xyz\/xx.m3u8?c=Zee_TV_HD&q=800&Auth_Token=7326181dd6edf8302382cedd79a522040ae2280d&e=junk.m3u8",
+        "URL": "http:\/\/optv.xyz\/xx.m3u8?c=Zee_TV_HD&q=800&Auth_Token=7326181dd6edf8302382cedd79a522040ae2280d&e=junk.m3u8",
         "ImageURL": "http:\/\/sgdccdnems04.cdnsrv.jio.com\/jiotv.catchup.cdn.jio.com\/dare_images\/images\/Zee_TV_HD.png"
     },
     {
         "Title": "Colors HD",
-        "URL": "https:\/\/optv.xyz\/xx.m3u8?c=Colors_HD&q=800&Auth_Token=7326181dd6edf8302382cedd79a522040ae2280d&e=junk.m3u8",
+        "URL": "http:\/\/optv.xyz\/xx.m3u8?c=Colors_HD&q=800&Auth_Token=7326181dd6edf8302382cedd79a522040ae2280d&e=junk.m3u8",
         "ImageURL": "http:\/\/sgdccdnems04.cdnsrv.jio.com\/jiotv.catchup.cdn.jio.com\/dare_images\/images\/Colors_HD.png"
     },
     {
         "Title": "Zee Anmol",
-        "URL": "https:\/\/optv.xyz\/xx.m3u8?c=Zee_Anmol&q=800&Auth_Token=7326181dd6edf8302382cedd79a522040ae2280d&e=junk.m3u8",
+        "URL": "http:\/\/optv.xyz\/xx.m3u8?c=Zee_Anmol&q=800&Auth_Token=7326181dd6edf8302382cedd79a522040ae2280d&e=junk.m3u8",
         "ImageURL": "http:\/\/sgdccdnems04.cdnsrv.jio.com\/jiotv.catchup.cdn.jio.com\/dare_images\/images\/Zee_Anmol.png"
     }
 ]
