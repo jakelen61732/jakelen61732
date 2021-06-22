@@ -1,5 +1,5 @@
 {
-  "Version": "8.5",
+  "Version": "8.6",
   "Message": "This is my sample message😉",
   "Servers": [
    {
@@ -13,14 +13,14 @@
       "SSHPass":"123456"
     },
     {
-      "Name": "PREMIUM (DROPBEAR | DIRECT | SSL)",
-      "SSHHost": "rgnet.rgntunnel.online",
-      "SSHPort": "80",
-      "DropBear": "8080",
+      "Name": "🇺🇸United States",
+      "SSHHost": "3.143.4.157",
+      "SSHPort": "22",
+      "DropBear": "550",
       "SSLPort": "443",
-      "ProxyPort": "80"
-      "SSHUser":"",
-      "SSHPass":""
+      "ProxyPort": "8686"
+      "SSHUser":"gvpnhub.com-Wala11",
+      "SSHPass":"123456"
     },
       {
       "Name": "FREE rgnet/rgnet (DROPBEAR | DIRECT | SSL)",
