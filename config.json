@@ -1,14 +1,16 @@
 {
-  "Version": "8.4",
-  "Message": "CORRECAO SNI PREZAO",
+  "Version": "1.0",
+  "Message": "This is my sample message😉",
   "Servers": [
    {
-      "Name": " (MODO SLOWDNS)",
-      "SSHHost":"127.0.0.1",
-      "SSHPort":"2222",
-      "DropBear":"2222",
-      "SSLPort": "2222",
-      "ProxyPort":"2222"
+      "Name": "🇦🇺Australia",
+      "SSHHost":"13.236.90.51",
+      "SSHPort":"22",
+      "DropBear":"550",
+      "SSLPort": "443",
+      "ProxyPort":"8686",
+      "SSHUser":"gvpnhub.com-Wala",
+      "SSHPass":"123456"
     },
     {
       "Name": "PREMIUM (DROPBEAR | DIRECT | SSL)",
@@ -17,6 +19,8 @@
       "DropBear": "8080",
       "SSLPort": "443",
       "ProxyPort": "80"
+      "SSHUser":"",
+      "SSHPass":""
     },
       {
       "Name": "FREE rgnet/rgnet (DROPBEAR | DIRECT | SSL)",
@@ -25,6 +29,8 @@
       "DropBear": "8080",
       "SSLPort": "443",
       "ProxyPort": "80"
+      "SSHUser":"",
+      "SSHPass":""
     },
    
     {
@@ -34,6 +40,8 @@
       "DropBear": "8080",
       "SSLPort": "8080",
       "ProxyPort": "8080"
+      "SSHUser":"",
+      "SSHPass":""
        },
        {
       "Name": "FREE rgnet/rgnet (VIVO MODO DROPBEAR)",
@@ -42,6 +50,8 @@
       "DropBear": "8080",
       "SSLPort": "8080",
       "ProxyPort": "8080"
+      "SSHUser":"",
+      "SSHPass":""
        }      
   ],
   
