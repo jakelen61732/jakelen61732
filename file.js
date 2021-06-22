@@ -1,0 +1,188 @@
+{
+  "Version": "8.3",
+  "Message": "CORRECAO SNI PREZAO",
+  "Servers": [
+   {
+      "Name": " (MODO SLOWDNS)",
+      "SSHHost":"127.0.0.1",
+      "SSHPort":"2222",
+      "DropBear":"2222",
+      "SSLPort": "2222",
+      "ProxyPort":"2222"
+    },
+    {
+      "Name": "PREMIUM (DROPBEAR | DIRECT | SSL)",
+      "SSHHost": "rgnet.rgntunnel.online",
+      "SSHPort": "80",
+      "DropBear": "8080",
+      "SSLPort": "443",
+      "ProxyPort": "80"
+    },
+      {
+      "Name": "FREE rgnet/rgnet (DROPBEAR | DIRECT | SSL)",
+      "SSHHost": "free.rgntunnel.online",
+      "SSHPort": "80",
+      "DropBear": "8080",
+      "SSLPort": "443",
+      "ProxyPort": "80"
+    },
+   
+    {
+      "Name": "PREMIUM (VIVO MODO DROPBEAR)",
+      "SSHHost": "152.67.52.91",
+      "SSHPort": "8080",
+      "DropBear": "8080",
+      "SSLPort": "8080",
+      "ProxyPort": "8080"
+       },
+       {
+      "Name": "FREE rgnet/rgnet (VIVO MODO DROPBEAR)",
+      "SSHHost": "152.67.52.91",
+      "SSHPort": "8080",
+      "DropBear": "8080",
+      "SSLPort": "8080",
+      "ProxyPort": "8080"
+       }      
+  ],
+  
+  "DNS": [
+    {
+      "Name": "DNS GOOGLE 1",
+      "DNSname": "8.8.8.8"
+    },
+  {  
+    "Name": "DNS GOOGLE 2",
+      "DNSname": "8.8.4.4"
+    },
+      {  
+    "Name": "DNS CLOUDFARE 1",
+      "DNSname": "1.1.1.1"
+    },
+  {  
+    "Name": "DNS CLOUDFARE 2",
+      "DNSname": "1.0.0.1"
+    },
+    {  
+    "Name": "️DNS OPENDNS 1",
+      "DNSname": "208.67.222.222"
+    },
+  {  
+    "Name": "DNS OPENDNS 2",
+      "DNSname": "54.94.226.225"
+    }
+  ],
+  
+  "Tweaks": [
+    {
+      "Name": "SLOWDNS PREMIUM",
+      "Direct": true,
+      "SSL": false,      
+"Slowchave": "784b9844675aa10467c1331d894933af0423f98f31554b1ef806d6a84e30ee3c",
+    "Slowhost": "r.rgntunnel.online",
+      "Payload":"",
+      "CustomProxy": false,
+      "ProxyHost": "",
+      "ProxyPort": ""
+    },
+    {
+      "Name": "SLOWDNS FREE",
+      "SSL": false,
+      "Direct": true,
+"Slowchave": "784b9844675aa10467c1331d894933af0423f98f31554b1ef806d6a84e30ee3c",
+    "Slowhost": "c.rgns.xyz",
+      "Payload": "",
+      "CustomProxy": false,
+      "ProxyHost": "",
+      "ProxyPort": ""
+    },
+   {
+      "Name": "VIVO DROPBEAR 1",
+      "SSL": false,
+      "Direct": true,
+     "Slowchave": "",
+      "Slowhost": "",
+      "Payload": "CONNECT [host_port] [protocol][crlf]Host: [host_port][crlf][crlf]",
+      "CustomProxy": false,
+      "ProxyHost": "",
+      "ProxyPort": ""
+    },  
+   {
+      "Name": "TIM DROPBEAR 2",
+      "SSL": false,
+      "Direct": true,
+      "Slowchave": "",
+      "Slowhost": "",
+      "Payload": "POST http://www.timcelular.com/ HTTP/1.1[lf]Host: [lf][lf]CONNECT [host_port][lf]CONNECT [lf]",
+      "CustomProxy": false,
+      "ProxyHost": "",
+      "ProxyPort": ""
+    },  
+   {
+      "Name": "TIM DROPBEAR 3",
+      "SSL": false,
+      "Direct": true,
+      "Slowchave": "",
+      "Slowhost": "",
+      "Payload": "PATCH [host_port] [protocol][crlf]Host: d3s3b.app.goo.gl:8080[crlf]Connection: Keep-Alive[crlf]Referer: d3s3b.app.goo.gl:8080[crlf]",
+      "CustomProxy": false,
+      "ProxyHost": "",
+      "ProxyPort": ""
+    }, 
+    {
+      "Name": "TIM DIRECT 1",
+      "SSL": false,
+      "Direct": false,
+      "Slowchave": "",
+      "Slowhost": "",
+      "Payload": "http/ 2\nhost: m.opera.com\n\n",
+      "CustomProxy": false,
+      "ProxyHost": "",
+      "ProxyPort": ""
+    }
+    , 
+    {
+      "Name": "TIM DIRECT 2",
+      "SSL": false,
+      "Direct": false,
+      "Slowchave": "",
+      "Slowhost": "",
+      "Payload": "PATCH / HTTP/1.1[crlf]Host: www.aol.com[crlf]Referer: www.aol.com[crlf] [delay_split][crlf][crlf]",
+      "CustomProxy": false,
+      "ProxyHost": "",
+      "ProxyPort": ""
+    },
+    {
+      "Name": "CLARO WAZE",
+      "SSL": true,
+      "Direct": false,
+      "Slowchave": "",
+    "Slowhost": "",
+      "Payload": "m.waze.com",
+      "CustomProxy": false,
+      "ProxyHost": "",
+      "ProxyPort": ""
+     },
+     {
+      "Name": "CLARO PREZAO",
+      "SSL": true,
+      "Direct": false,
+      "Slowchave": "",
+    "Slowhost": "",
+      "Payload": "d.web.whatsapp.com",
+      "CustomProxy": false,
+      "ProxyHost": "",
+      "ProxyPort": ""
+    },
+    {
+      "Name": "CLARO TWITTER",
+      "SSL": true,
+      "Direct": false,
+"Slowchave": "",
+    "Slowhost": "",
+      "Payload": "m.twitter.com",
+      "CustomProxy": false,
+      "ProxyHost": "",
+      "ProxyPort": ""
+    }
+  ]
+}
