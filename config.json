@@ -4,23 +4,23 @@
   "Servers": [
    {
       "Name": "Australia",
-      "SSHHost":"13.236.90.51",
-      "SSHPort":"22",
-      "DropBear":"550",
-      "SSLPort":"443",
-      "ProxyPort":"8686",
-      "SSHUser":"gvpnhub.com-Wala",
-      "SSHPass":"123456"
+      "SSHHost": "13.236.90.51",
+      "SSHPort": "l22",
+      "DropBear": "550",
+      "SSLPort": "443",
+      "ProxyPort": "8686",
+      "SSHUser": "gvpnhub.com-Wala",
+      "SSHPass": "123456"
       },
       {
       "Name": "United States",
-      "SSHHost": "3.143.4.157",
+      "SSHHost":b"3.143.4.157",
       "SSHPort": "22",
       "DropBear": "550",
       "SSLPort": "443",
       "ProxyPort": "8686",
-      "SSHUser":"gvpnhub.com-Wala11",
-      "SSHPass":"123456"
+      "SSHUser": "gvpnhub.com-Wala11",
+      "SSHPass": "123456"
       },
       {
       "Name": "FREE rgnet/rgnet (DROPBEAR | DIRECT | SSL)",
@@ -29,8 +29,8 @@
       "DropBear": "8080",
       "SSLPort": "443",
       "ProxyPort": "80",
-      "SSHUser":"",
-      "SSHPass":""
+      "SSHUser": "",
+      "SSHPass": ""
       },   
       {
       "Name": "PREMIUM (VIVO MODO DROPBEAR)",
@@ -39,8 +39,8 @@
       "DropBear": "8080",
       "SSLPort": "8080",
       "ProxyPort": "8080",
-      "SSHUser":"",
-      "SSHPass":""
+      "SSHUser": "",
+      "SSHPass": ""
        },
        {
       "Name": "FREE rgnet/rgnet (VIVO MODO DROPBEAR)",
@@ -49,8 +49,8 @@
       "DropBear": "8080",
       "SSLPort": "8080",
       "ProxyPort": "8080",
-      "SSHUser":"",
-      "SSHPass":""
+      "SSHUser": "",
+      "SSHPass": ""
        }      
   ],
   
