@@ -83,7 +83,7 @@
   
   "Tweaks": [
      {
-      "Name": "Direct Connection",
+      "Name": "Direct",
       "SSL": false,
       "Direct": true,
       "Slowchave": "",
@@ -155,39 +155,6 @@
       "Slowchave": "",
       "Slowhost": "",
       "Payload": "CONNECT [host_port] [protocol][crlf]Host: data.mobilelegends.com[crlf]X-Online-Host: data.mobilelegends.com[crlf]X-Forward-Host: data.mobilelegends.com[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "CustomProxy": false,
-      "ProxyHost": "",
-      "ProxyPort": ""
-    }, 
-    {
-      "Name": "CLARO WAZE",
-      "SSL": true,
-      "Direct": false,
-      "Slowchave": "",
-    "Slowhost": "",
-      "Payload": "m.waze.com",
-      "CustomProxy": false,
-      "ProxyHost": "",
-      "ProxyPort": ""
-     },
-     {
-      "Name": "CLARO PREZAO",
-      "SSL": true,
-      "Direct": false,
-      "Slowchave": "",
-      "Slowhost": "",
-      "Payload": "d.web.whatsapp.com",
-      "CustomProxy": false,
-      "ProxyHost": "",
-      "ProxyPort": ""
-    },
-    {
-      "Name": "CLARO TWITTER",
-      "SSL": true,
-      "Direct": false,
-      "Slowchave": "",
-      "Slowhost": "",
-      "Payload": "m.twitter.com",
       "CustomProxy": false,
       "ProxyHost": "",
       "ProxyPort": ""
