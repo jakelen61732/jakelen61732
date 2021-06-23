@@ -1,5 +1,5 @@
 {
-  "Version": "3",
+  "Version": "4",
   "Message": "This is my sample message",
   "Servers": [
    {
@@ -88,7 +88,7 @@
       "Direct": true,
       "Slowchave": "",
       "Slowhost": "",
-      "Payload": "CONNECT [host_port] [protocol][crlf]Host: edge-star-shv-01-any2.facebook.com[crlf]X-Online-Host: edge-star-shv-01-any2.facebook.com[crlf]X-Forward-Host: edge-star-shv-01-any2.facebook.com[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "",
       "CustomProxy": false,
       "ProxyHost": "",
       "ProxyPort": ""
