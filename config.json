@@ -14,7 +14,7 @@
       },
       {
       "Name": "United States",
-      "SSHHost":b"3.143.4.157",
+      "SSHHost": "3.143.4.157",
       "SSHPort": "22",
       "DropBear": "550",
       "SSLPort": "443",
