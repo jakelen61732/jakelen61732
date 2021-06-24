@@ -1,5 +1,4 @@
-{
-"Blocked":[
+{"Blocked":[
 "com.kjaydev.wala",
-"com.wala.vpn"
-]}
+"com.wala.vpn",
+"com.sample.wala"]}
