@@ -1,6 +1,6 @@
 {
-  "Version": "5",
-  "Message": "This is my sample message",
+  "Version": "1",
+  "Message": "This is a simple message😆",
   "Servers": [
    {
       "Name": "🇦🇺Australia",
@@ -89,9 +89,9 @@
       "Slowchave": "",
       "Slowhost": "",
       "Payload": "",
-      "CustomProxy": true,
-      "ProxyHost": "127.0.0.1",
-      "ProxyPort": "80"
+      "CustomProxy": false,
+      "ProxyHost": "",
+      "ProxyPort": ""
     },
     {
       "Name": "GIGA STORIES 1",
