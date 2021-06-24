@@ -1,5 +1,5 @@
 {
-  "Version": "4",
+  "Version": "5",
   "Message": "This is my sample message",
   "Servers": [
    {
@@ -89,9 +89,9 @@
       "Slowchave": "",
       "Slowhost": "",
       "Payload": "",
-      "CustomProxy": false,
-      "ProxyHost": "",
-      "ProxyPort": ""
+      "CustomProxy": true,
+      "ProxyHost": "127.0.0.1",
+      "ProxyPort": "80"
     },
     {
       "Name": "GIGA STORIES 1",
