@@ -5,7 +5,7 @@
    {
       "Name": "🇦🇺Australia",
       "SSHHost": "13.236.90.51",
-      "SSHPort": "l22",
+      "SSHPort": "22",
       "DropBear": "550",
       "SSLPort": "443",
       "ProxyPort": "8686",
