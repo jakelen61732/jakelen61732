@@ -4,6 +4,6 @@
    "versionName": "2.8",
    "link": "https://github.com/jakelen61732/jakelen61732/raw/main/Kjay%20VPN%20Updates/Kjay%20VPN%20v2.8.apk",
    "force": true,
-   "isPlayStore": true,
-   "isInApp": true
+   "isPlayStore": false,
+   "isInApp": false
  }
