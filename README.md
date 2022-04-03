@@ -1,7 +1,1 @@
-# ANG POGI KO 😆
-
-
-{
-       "test":" 🥰 ",
-       "test2":" 🤣 "
-}
+# ANG POGI KO😳
