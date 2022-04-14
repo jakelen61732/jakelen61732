@@ -1,6 +1,6 @@
 {
-   "VersionName":"1.0",
-   "Message":"Hi this is a free src!😍🌈",
-   "URL":"https://github.com/jakelen61732/jakelen61732/raw/main/Kjay%20VPN%20Updates/Kjay%20VPN%202.3.apk",
-   "ForceUpdate": false
+  "VersionName": "1.0",
+  "Message": "this is (BETA) v1.0",
+  "URL": "https:\/\/www.mediafire.com\/file\/475oge8z1kmnx93\/Rainbow_VPN_%2528BETA%2529_v1.0.apk\/file",
+  "ForceUpdate": true
 }
