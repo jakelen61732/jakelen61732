@@ -13,5 +13,20 @@
         "Title": "Million Dollar Listing",
         "URL": "https:\/\/d202koqm588atp.cloudfront.net\/v1\/master\/3fec3e5cac39a52b2132f9c66c83dae043dc17d4\/prod-samsungtvplus-stitched-publica\/samsungtvplus_us_milliondollarlisting_simulcast_001.m3u8?ads.caid=MillionDollarListing&ads.csid=samsungtvplus_us_milliondollarlisting_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2780&ads.xumo_contentName=nbcumilliondollarlisting&ads.xumo_providerId=2780&ads.xumo_providerName=nbcumilliondollarlisting&ads.xumo_channelId=9999548&ads.xumo_channelName=Milliondollarlisting&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D",
         "ImageURL": "https:\/\/tvpmlogopus.samsungcloud.tv\/platform\/image\/sourcelogo\/vc\/70\/00\/41\/USBB3200024V5_20220413T093257.png"
+    },
+    {
+        "Title": "Antiques Roadshow",
+        "URL": "https:\/\/dbbg0ax8bgo7d.cloudfront.net\/v1\/master\/3722c60a815c199d9c0ef36c5b73da68a62b09d1\/cc-5rr52e88156vv-prod\/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D",
+        "ImageURL": "https:\/\/tvpmlogopus.samsungcloud.tv\/platform\/image\/sourcelogo\/vc\/70\/00\/06\/USBC600018CF_20220413T093233.png"
+    },
+    {
+        "Title": "Heartland",
+        "URL": "https:\/\/d76toswjmqqzm.cloudfront.net\/v1\/master\/3722c60a815c199d9c0ef36c5b73da68a62b09d1\/Heartland-prod\/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D",
+        "ImageURL": "https:\/\/tvpmlogopus.samsungcloud.tv\/platform\/image\/sourcelogo\/vc\/70\/01\/98\/USBB2900003O3_20220413T093250.png"
+    },
+    {
+        "Title": "CBS News",
+        "URL": "https:\/\/dai.google.com\/linear\/hls\/event\/EezGs5EpSjSr-sYjB2qysw\/master.m3u8?imafw_csid=vcbs_samsung_mobile_allos_live&imafw__fw_h_referer=com.samsung.android.tvplus&imafw_description_url=https%3A%2F%2Fwww.cbsnews.com%2Flive&imafw__fw_did=tifa%3A%7BPSID%7D&imafw__fw_is_lat=%7BTARGETOPT%7D&imafw__fw_vcid2=%7BPSID%7D&imafw__fw_app_bundle=com.samsung.android.tvplus&imafw__fw_us_privacy=1YNY&imafw_is_lat=%7BTARGETOPT%7D&dai-ah=1",
+        "ImageURL": "https:\/\/tvpmlogopus.samsungcloud.tv\/platform\/image\/sourcelogo\/vc\/70\/06\/67\/USBA370000104_20220413T093236.png"
     }
 ]
