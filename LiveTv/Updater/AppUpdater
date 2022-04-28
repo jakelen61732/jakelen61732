@@ -1,7 +1,7 @@
 {
    "Title":"New Update",
-   "Message":"My message 1",
-   "VersionName":"1.1",
+   "Message":"My Message",
+   "VersionName":"1.0",
    "Link":"https://github.com/jakelen61732/jakelen61732/raw/main/LiveTv/LiveTv_v1.1.apk",
-   "Force": true
+   "Force": false
 }
