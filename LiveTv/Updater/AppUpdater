@@ -1,6 +1,6 @@
 {
-   "Title":"New Update",
-   "Message":"What's new:\n•Improve app stability,\nImprove Video Player with Dual Audio outputs,\nAdded Video Floating window.",
+   "Title":"New app Update available",
+   "Message":"What's new:\n•Optimized performance.\n•Improve Video Player with two audio channels.\n•Added Floating window for video player.",
    "VersionName":"1.2",
    "Link":"https://github.com/jakelen61732/jakelen61732/raw/main/LiveTv/app-release.apk",
    "Force": true
