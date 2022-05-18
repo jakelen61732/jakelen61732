@@ -1828,5 +1828,45 @@
         "Title": "CBS News Bay Area",
         "URL": "VojoorsLQxF+JX9BUfaCED0GDaiEmTvy+QJrY7mO9bxANxsuvvJFVFwCW\/s0R4uVuQtAUDHuHWB6cAsavsYRVeoF1NErFst3r\/j9WtkpO3bKtc6S8Y4imRSQkB8MgxuZxHO3QWHNeeVrQleHjJvoYkOYGkqj0ZFecK4uceb\/qbhYJXJXYYv2X+kA\/LlsQU9XHODDDdGBKP+CsTAIHJPjGCgtnel47sOiAl\/qCPe7kWNG556C1zuzCI0NiOmRfz7vW\/giwpAIL+gpAhSnHDbk5R2bc754vejTf\/JKF2HP3s83ZRA3gXmS4tJweryMwRBZJ+6LX+7fNuV1R7jcphMaw4HK4WdPfDSHuFAk5LNeW0C+SNXnjziEPBmRhwjK+RvV6lssgjLtazeyV9uRczSSAkwRhPbXo47FY0HaX6paQ0w5KV6fRCMh27HK31mEaV2x7G9fNCVwYl2ROHxrJ+IjOluTvJ\/kAcmXK3nuepHM5vtrBfyd70Z+VrSPIEaD8Jo1BXgZi9OPnMMPoUKD+sciWr\/C87KhDLVIQNjPbs0WrNRKbGfINxpk49vI5t5zVGpGX8xHCptMh2Q=",
         "ImageURL": "3SxGXgEe04BltouKL1iLkJTnd3l7Tu5N8U8wBIPOLYyMBf9H81YyW3iBSB\/1WXsoTwrNv7ZMr8Ev79ux7sbwkmCg\/G1qEr+JN69Li5DG4ws="
+    },
+    {
+        "Title": "HD (MP4, H264)",
+        "URL": "QmDc9B3zJwiuAkmK0tI759S7iC3zgOc\/6j4dJbd3BXQk8c7IHfWDL0+1YGSQQic8V4QAjgJLFThXhg4fx3VLDDiP4OsyvJ0O",
+        "ImageURL": ""
+    },
+    {
+        "Title": "UHD (MP4, H264)",
+        "URL": "oj9Zqsr83sGdolbPFbklCb509972t47ImY2HCGCJOMZGbe\/1UApXj94KVxf5qkD1XfjjAf2EOwUJm14cmEdOcfMqnxg99GAGbhtjtA==",
+        "ImageURL": ""
+    },
+    {
+        "Title": "HD (MP4, H265)",
+        "URL": "zDjs0EwU73P0cG9UYlCNrCiUazn7TAQWvlKBWw300J8jzqllc1D7enqA5H+kHfxmivwD4guz1DKjrNwxL\/pZsgc87fZaCJhx",
+        "ImageURL": ""
+    },
+    {
+        "Title": "UHD (MP4, H265)",
+        "URL": "zXy7DGMx7PeNlUOwaomSEG24JOnbt1srqUhj1RS0Cd3rW5PSFd22Q6VI9V6mD4oSVAe\/8\/+qv+R5zPoSKg4W6rbKwVuhHV+Ua5Gxdw==",
+        "ImageURL": ""
+    },
+    {
+        "Title": "HD (WebM, VP9)",
+        "URL": "z4HVEGPvdxu7y6sZRBgvnEEAcwgIObLVxxbMorzUXsXJIWDzY7rawL3eWSwH+gX+cm+nlexQpP0uerIyzVHzGIfZvZs=",
+        "ImageURL": ""
+    },
+    {
+        "Title": "UHD (WebM, VP9)",
+        "URL": "hctZVuCaDUtfGZ8rq6P6IjMJOmJ7GYHUWEu3jl7mTp814cbqunTQgvP4bloVvKWk12OR+sealxwijWyUKaJZw3ztJVMkmabJ",
+        "ImageURL": ""
+    },
+    {
+        "Title": "HD (cenc) DASH",
+        "URL": "76CVhIeNPwFjcFjLe8jIMmEzBerAsqpYNKXnrvqde\/C3iCHDX0BoC4eqjr3XM06bM8BCrsj+S+HAG8YfS1DLaftQE6Q=",
+        "ImageURL": ""
+    },
+    {
+        "Title": "UHD (cenc) DASH",
+        "URL": "G\/Ve\/8FYNme9GI88ZuS\/O\/z8ej0PbpAl7pUx14RAvB7ESo58blJQK2pnrrGyJTXZDw0IVEI0dZYg\/yX1SJQ7UZd6mjv7c7eN",
+        "ImageURL": ""
     }
 ]
