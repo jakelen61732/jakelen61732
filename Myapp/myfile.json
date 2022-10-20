@@ -6,7 +6,7 @@
 
    "ISENABLED": false,
 
-   "SERVERS": [{
-   }]
-
+   "SERVERS": [
+       {}
+   ]
 }
