@@ -1,7 +1,7 @@
 {
   "HELP_MSG": "If there is anything we can help, don't hesitate to chat with us.",
   "HELP_URL": "https://www.facebook.com/KJAYDevelopers",
-  "ISENABLED": false,
+  "ISENABLED": true,
   "SERVERS": [
     {
       "Server": "https://www.2embed.to/embed/tmdb/movie?id={TMDB}"
