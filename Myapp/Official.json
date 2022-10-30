@@ -1,31 +1,8 @@
 {
   "HELP_MSG": "If there is anything we can help, don't hesitate to chat with us.",
   "HELP_URL": "https://m.me/j/AbbsgHi_UqSrj3US/",
-  "ISENABLED": true,
+  "ISENABLED": false,
   "SERVERS": [
-    {
-      "Server": "https://www.2embed.to/embed/tmdb/movie?id={TMDB}"
-    },
-    {
-      "Server": "https://2embed.org/embed/movie?tmdb={TMDB}"
-    },
-    {
-      "Server": "https://2embed.org/se_player.php?video_id={IMDB}"
-    },
-    {
-      "Server": "https://2embed.org/pl.php/player.php?id={TMDB}"
-    },
-    {
-      "Server": "https://v2.vidsrc.me/embed/{IMDB}"
-    },
-    {
-      "Server": "https://movies.pinoymovies.tv/video/{TMDB}"
-    },
-    {
-      "Server": "https://astreamhub.com/video/{TMDB}"
-    },
-    {
-      "Server": "http://database.gdriveplayer.us/player.php?imdb={IMDB}"
-    }
+    {}
   ]
 }
