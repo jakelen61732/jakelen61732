@@ -1,5 +1,4 @@
 {
-   "targetVer":"1.5",
-   "API":"",
+   "API":"https://api.themoviedb.org/3/",
    "MaintenanceMoDE":"www.google.com"
 }
