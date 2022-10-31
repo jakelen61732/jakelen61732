@@ -19,13 +19,13 @@
       "Server": "https://v2.vidsrc.me/embed/{IMDB}"
     },
     {
+      "Server": "http://database.gdriveplayer.us/player.php?imdb={IMDB}"
+    },
+    {
       "Server": "https://movies.pinoymovies.tv/video/{TMDB}"
     },
     {
       "Server": "https://astreamhub.com/video/{TMDB}"
-    },
-    {
-      "Server": "http://database.gdriveplayer.us/player.php?imdb={IMDB}"
     }
   ]
 }
