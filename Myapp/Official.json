@@ -25,7 +25,10 @@
       "Server": "https://movies.pinoymovies.tv/video/{TMDB}"
     },
     {
-      "Server": "https://astreamhub.com/video/{TMDB}"
+      "Server": "https://astreamhub.com/video/{TMDB}",
+    },
+    {
+      "Server": "https://xtreamhub.com/video/{TMDB}"
     }
   ]
 }
