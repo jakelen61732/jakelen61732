@@ -29,6 +29,9 @@
     },
     {
       "Server": "https://xtreamhub.com/video/{TMDB}"
+    },
+    {
+      "Server": "https://beta.xtreamhub.com/video/{TMDB}"
     }
   ]
 }
