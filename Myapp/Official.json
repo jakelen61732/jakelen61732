@@ -2,7 +2,6 @@
   "HELP_MSG": "If there is anything we can help, don't hesitate to chat with us.",
   "HELP_URL": "https://m.me/j/AbbsgHi_UqSrj3US/",
   "ISENABLED": true,
-  "isUSEAD": false,
   "SERVERS": [
     {
       "Server": "https://www.2embed.to/embed/tmdb/movie?id={TMDB}"
