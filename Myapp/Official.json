@@ -26,6 +26,12 @@
     },
     {
       "Server": "https://xtreamhub.com/video/{TMDB}/"
+    },
+    {
+      "Server": "https://movies.pinoymovies.tv/video/{TMDB}"
+    },
+    {
+      "Server": "https://beta.xtreamhub.com/video/{TMDB}"
     }
   ]
 }
