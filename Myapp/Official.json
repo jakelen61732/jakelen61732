@@ -23,6 +23,9 @@
     },
     {
       "Server": "https://xtreamhub.com/video/{TMDB}/"
+    },
+    {
+      "Server": "https://movies.engine-xcdn.com/video/{TMDB}"
     }
   ]
 }
