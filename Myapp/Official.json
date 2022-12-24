@@ -13,9 +13,6 @@
       "Server": "https://2embed.org/pl.php/player.php?id={TMDB}"
     },
     {
-      "Server": "https://2embed.org/pl.php/player.php?id={TMDB}"
-    },
-    {
       "Server": "https://v2.vidsrc.me/embed/{IMDB}"
     },
     {
