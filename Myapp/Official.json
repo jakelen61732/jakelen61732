@@ -10,7 +10,7 @@
       "Server": "https://2embed.org/embed/movie?tmdb={TMDB}"
     },
     {
-      "Server": "https://2embed.org/se_player.php?video_id={IMDB}"
+      "Server": "https://2embed.org/pl.php/player.php?id={TMDB}"
     },
     {
       "Server": "https://2embed.org/pl.php/player.php?id={TMDB}"
