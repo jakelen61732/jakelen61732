@@ -1,4 +1,5 @@
 {
    "API":"https://api.themoviedb.org/3/",
-   "MaintenanceMoDE":"www.google.com"
+   "MaintenanceMoDE":"www.google.com",
+   "VERSION_NAME":"2.1"
 }
