@@ -4,24 +4,31 @@
   "ISENABLED": true,
   "SERVERS": [
     {
+      "Name":"Server 01",
       "Server": "https://www.2embed.to/embed/tmdb/movie?id={TMDB}"
     },
     {
+      "Name":"Server 02",
       "Server": "https://2embed.org/embed/movie?tmdb={TMDB}"
     },
     {
+      "Name":"Server 03",
       "Server": "https://2embed.org/pl.php/player.php?id={TMDB}"
     },
     {
+      "Name":"Server 04",
       "Server": "https://v2.vidsrc.me/embed/{IMDB}"
     },
     {
+      "Name":"Server 05",
       "Server": "https://2embed.org/se_player.php?video_id={IMDB}"
     },
     {
+      "Name":"Server 06 (Pinoy Movie)",
       "Server": "https://xtreamhub.com/video/{TMDB}/"
     },
     {
+      "Name":"Server 07 (Pinoy Movie)",
       "Server": "https://movies.engine-xcdn.com/video/{TMDB}"
     }
   ]
