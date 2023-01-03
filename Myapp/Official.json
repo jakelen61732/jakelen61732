@@ -16,19 +16,19 @@
       "Server": "https://2embed.org/pl.php/player.php?id={TMDB}"
     },
     {
-      "Name":"Server 04 (Main | Recommended)",
+      "Name":"Server 04 (Recommended)",
       "Server": "https://v2.vidsrc.me/embed/{IMDB}"
     },
     {
-      "Name":"Server 05 (Main | Recommended)",
+      "Name":"Server 05 (Recommended)",
       "Server": "https://2embed.org/se_player.php?video_id={IMDB}"
     },
     {
-      "Name":"Server 06 (Pinoy Movie 01)",
+      "Name":"Server 06 (Pinoy Movie)",
       "Server": "https://xtreamhub.com/video/{TMDB}/"
     },
     {
-      "Name":"Server 07 (Pinoy Movie 02)",
+      "Name":"Server 07 (Pinoy Movie)",
       "Server": "https://movies.engine-xcdn.com/video/{TMDB}"
     }
   ]
