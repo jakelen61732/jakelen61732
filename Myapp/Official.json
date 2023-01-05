@@ -12,20 +12,20 @@
       "Server": "https://2embed.org/se_player.php?video_id={IMDB}"
     },
     {
-      "Name":"Server 03 (Backup)",
-      "Server": "https://www.2embed.to/embed/tmdb/movie?id={TMDB}"
+      "Name":"Server 03 (Recommended)",
+      "Server": "https://databasegdriveplayer.xyz/player.php?imdb={IMDB}"
     },
     {
       "Name":"Server 04 (Backup)",
-      "Server": "https://2embed.org/embed/movie?tmdb={TMDB}"
+      "Server": "https://www.2embed.to/embed/tmdb/movie?id={TMDB}"
     },
     {
       "Name":"Server 05 (Backup)",
-      "Server": "https://2embed.org/pl.php/player.php?id={TMDB}"
+      "Server": "https://2embed.org/embed/movie?tmdb={TMDB}"
     },
     {
       "Name":"Server 06 (Backup)",
-      "Server": "https://databasegdriveplayer.xyz/player.php?imdb={IMDB}"
+      "Server": "https://2embed.org/pl.php/player.php?id={TMDB}"
     },
     {
       "Name":"Server 07 (Pinoy Movie)",
