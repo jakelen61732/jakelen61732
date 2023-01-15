@@ -29,7 +29,7 @@
     },
     {
       "Name":"Server 07 (Pinoy Movie)",
-      "Server": "https://xtreamhub.com/video/{TMDB}/"
+      "Server": "https://xtreamhub.com/video/{TMDB}"
     },
     {
       "Name":"Server 08 (Pinoy Movie)",
@@ -37,7 +37,7 @@
     },
     {
       "Name":"Server 09 (Movie Request)",
-      "Server": "https://mylivetv.cf/tmdb/{TMDB}/"
+      "Server": "https://mylivetv.cf/tmdb/{TMDB}"
     }
   ]
 }
