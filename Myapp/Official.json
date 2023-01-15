@@ -37,7 +37,7 @@
     },
     {
       "Name":"Server 09 (Movie Request)",
-      "Server": "https://www.firevpn.ga/zmovies/{TMDB}/"
+      "Server": "https://mylivetv.cf/tmdb/{TMDB}/"
     }
   ]
 }
