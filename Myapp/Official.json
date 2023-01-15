@@ -34,6 +34,10 @@
     {
       "Name":"Server 08 (Pinoy Movie)",
       "Server": "https://movies.engine-xcdn.com/video/{TMDB}"
+    },
+    {
+      "Name":"Server 09 (Movie Request)",
+      "Server": "https://www.firevpn.ga/zmovies/{TMDB}/"
     }
   ]
 }
