@@ -1,5 +1,5 @@
 {
    "API":"https://www.google.com",
-   "Maintenance":true,
+   "Maintenance":false,
    "VERSION_NAME":"2.3"
 }
