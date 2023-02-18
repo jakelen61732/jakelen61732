@@ -1,6 +1,4 @@
 {
    "API":"https://www.google.com",
-   "version":"2.7",
-   "Maintenance":false,
-   "VERSION_NAME":"2.3"
+   "version":"2.7"
 }
