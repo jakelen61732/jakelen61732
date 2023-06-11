@@ -30,7 +30,7 @@
          "Name": "Server 07 (Pinoy Movie)"
       },
       {
-         "Api": "https://mylivetv.cf/movie/{TMDB}",
+         "Api": "https://jakelen61732.github.io/zmovies/tmdb/movie/{TMDB}",
          "Name": "Server 08 (Movie Requested)"
       }
    ],
@@ -61,7 +61,7 @@
          "Name": "Server 06 (Pinoy Tv Series)"
       },
       {
-         "Api": "https://mylivetv.cf/tv/{TMDB}s{S}e{E}",
+         "Api": "https://jakelen61732.github.io/zmovies/tmdb/tv/{TMDB}s{S}e{E}",
          "Name": "Server 07 (Tv/Movie Series Requested)"
       }
    ]
