@@ -2,7 +2,7 @@
    "MDownloadlink": "https://mylivetv.cf/movie/download/{TMDB}",
    "MServers": [
       {
-         "Api": "https://mylivetv.cf/se_player.php?video_id={TMDB}&tmdb=1",
+         "Api": "http://zmovies.likesyou.org/se_player.php?video_id={TMDB}&tmdb=1",
          "Name": "Server 01 (Recommended)"
       },
       {
@@ -18,26 +18,22 @@
          "Name": "Server 04 (Backup)"
       },
       {
-         "Api": "https://2embed.org/pl.php/player.php?id={TMDB}",
-         "Name": "Server 05 (Backup)"
-      },
-      {
          "Api": "https://xtreamhub.com/video/{TMDB}",
-         "Name": "Server 06 (Pinoy Movie)"
+         "Name": "Server 05 (Pinoy Movie)"
       },
       {
          "Api": "https://moviehab.asia/embed/movie?tmdb={TMDB}",
-         "Name": "Server 07 (Pinoy Movie)"
+         "Name": "Server 06 (Pinoy Movie)"
       },
       {
          "Api": "https://jakelen61732.github.io/zmovies/tmdb/movie/{TMDB}",
-         "Name": "Server 08 (Movie Requested)"
+         "Name": "Server 07 (Movie Requested)"
       }
    ],
    "SDownloadlink": "https://mylivetv.cf/tv/download/{TMDB}{S}{E}",
    "SServers": [
       {
-         "Api": "https://mylivetv.cf/se_player.php?video_id={TMDB}&tmdb=1&s={S}&e={E}",
+         "Api": "http://zmovies.likesyou.org/se_player.php?video_id={TMDB}&tmdb=1&s={S}&e={E}",
          "Name": "Server 01 (Recommended)"
       },
       {
