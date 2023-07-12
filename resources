@@ -14,7 +14,7 @@
          "Name": "Server 03 (Recommended)"
       },
       {
-         "Api": "https://www.2embed.to/embed/tmdb/movie?id={TMDB}",
+         "Api": "https://www.2embed.cc/embed/{TMDB}",
          "Name": "Server 04 (Backup)"
       },
       {
@@ -45,7 +45,7 @@
          "Name": "Server 03 (Recommended)"
       },
       {
-         "Api": "https://www.2embed.to/embed/tmdb/tv?id={TMDB}&s={S}&e={E}",
+         "Api": "https://www.2embed.cc/embedtv/{TMDB}&s={S}&e={E}",
          "Name": "Server 04 (Backup)"
       },
       {
