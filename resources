@@ -6,7 +6,7 @@
          "Name": "Server 01 (Recommended)"
       },
       {
-         "Api": "https://vidsrc.me/embed/movie?imdb={TMDB}/color-238edc",
+         "Api": "https://vidsrc.me/embed/movie?tmdb={TMDB}/color-238edc",
          "Name": "Server 02 (Recommended)"
       },
       {
