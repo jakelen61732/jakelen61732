@@ -14,7 +14,7 @@
          "Name": "Server 03 (Recommended)"
       },
       {
-         "Api": "https://www.2embed.cc/embed/{TMDB}",
+         "Api": "https://embed.smashystream.com/playere.php?tmdb={TMDB}",
          "Name": "Server 04 (Backup)"
       },
       {
@@ -45,7 +45,7 @@
          "Name": "Server 03 (Recommended)"
       },
       {
-         "Api": "https://www.2embed.cc/embedtv/{TMDB}&s={S}&e={E}",
+         "Api": "https://embed.smashystream.com/playere.php?tmdb={TMDB}&season={S}&episode={E}",
          "Name": "Server 04 (Backup)"
       },
       {
