@@ -6,7 +6,7 @@
          "Name": "Server 01 (Recommended)"
       },
       {
-         "Api": "https://v2.vidsrc.me/embed/{IMDB}",
+         "Api": "https://vidsrc.me/embed/movie?imdb={IMDB}",
          "Name": "Server 02 (Recommended)"
       },
       {
@@ -37,7 +37,7 @@
          "Name": "Server 01 (Recommended)"
       },
       {
-         "Api": "https://v2.vidsrc.me/embed/{TMDB}/{S}-{E}",
+         "Api": "https://vidsrc.me/embed/tv?tmdb={TMDB}&season={S}&episode={E}",
          "Name": "Server 02 (Recommended)"
       },
       {
