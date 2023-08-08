@@ -2,63 +2,71 @@
    "MDownloadlink": "https://mylivetv.cf/movie/download/{TMDB}",
    "MServers": [
       {
-         "Api": "http://zmovies.likesyou.org/se_player.php?video_id={TMDB}&tmdb=1",
-         "Name": "Server 01 (Recommended)"
+         "Api":"https://autoembed.to/movie/tmdb/{TMDB}?server=1&ss=1",
+         "Name":"Server 01(Recommended)"
       },
       {
-         "Api": "https://vidsrc.me/embed/{TMDB}/color-238edc",
+         "Api": "http://zmovies.likesyou.org/se_player.php?video_id={TMDB}&tmdb=1",
          "Name": "Server 02 (Recommended)"
       },
       {
-         "Api": "https://databasegdriveplayer.xyz/player.php?imdb={IMDB}",
+         "Api": "https://vidsrc.me/embed/{TMDB}/color-238edc",
          "Name": "Server 03 (Recommended)"
       },
       {
+         "Api": "https://databasegdriveplayer.xyz/player.php?imdb={IMDB}",
+         "Name": "Server 04 (Recommended)"
+      },
+      {
          "Api": "https://embed.smashystream.com/playere.php?tmdb={TMDB}",
-         "Name": "Server 04 (Backup)"
+         "Name": "Server 05 (Backup)"
       },
       {
          "Api": "https://xtreamhub.com/video/{TMDB}",
-         "Name": "Server 05 (Pinoy Movie)"
-      },
-      {
-         "Api": "https://moviehab.asia/embed/movie?tmdb={TMDB}",
          "Name": "Server 06 (Pinoy Movie)"
       },
       {
+         "Api": "https://moviehab.asia/embed/movie?tmdb={TMDB}",
+         "Name": "Server 07 (Pinoy Movie)"
+      },
+      {
          "Api": "https://jakelen61732.github.io/zmovies/tmdb/movie/{TMDB}",
-         "Name": "Server 07 (Movie Requested)"
+         "Name": "Server 08 (Movie Requested)"
       }
    ],
    "SDownloadlink": "https://mylivetv.cf/tv/download/{TMDB}{S}{E}",
    "SServers": [
       {
-         "Api": "http://zmovies.likesyou.org/se_player.php?video_id={TMDB}&tmdb=1&s={S}&e={E}",
-         "Name": "Server 01 (Recommended)"
+         "Api":"https://autoembed.to/tv/tmdb/{TMDB}-{S}-{E}?server=1&ss=1",
+         "Name":"Server 01 (Recommended)"
       },
       {
-         "Api": "https://vidsrc.me/embed/{TMDB}&season={S}&episode={E}/color-238edc",
+         "Api": "http://zmovies.likesyou.org/se_player.php?video_id={TMDB}&tmdb=1&s={S}&e={E}",
          "Name": "Server 02 (Recommended)"
       },
       {
-         "Api": "https://databasegdriveplayer.xyz/player.php?type=series&tmdb={TMDB}&season={S}&episode={E}",
+         "Api": "https://vidsrc.me/embed/{TMDB}&season={S}&episode={E}/color-238edc",
          "Name": "Server 03 (Recommended)"
       },
       {
+         "Api": "https://databasegdriveplayer.xyz/player.php?type=series&tmdb={TMDB}&season={S}&episode={E}",
+         "Name": "Server 04 (Recommended)"
+      },
+      {
          "Api": "https://embed.smashystream.com/playere.php?tmdb={TMDB}&season={S}&episode={E}",
-         "Name": "Server 04 (Backup)"
+         "Name": "Server 05 (Backup)"
       },
       {
          "Api": "https://xtreamhub.com/video/{TMDB}s{S}e{E}",
-         "Name": "Server 05 (Pinoy Tv Series)"
-      },
-      {
-         "Api": "https://moviehab.asia/embed/{TMDB}/{S}/{E}",
          "Name": "Server 06 (Pinoy Tv Series)"
       },
       {
+         "Api": "https://moviehab.asia/embed/{TMDB}/{S}/{E}",
+         "Name": "Server 07 (Pinoy Tv Series)"
+      },
+      {
          "Api": "https://jakelen61732.github.io/zmovies/tmdb/tv/{TMDB}s{S}e{E}",
-         "Name": "Server 07 (Tv/Movie Series Requested)"
+         "Name": "Server 08 (Tv/Movie Series Requested)"
       }
    ]
 }
