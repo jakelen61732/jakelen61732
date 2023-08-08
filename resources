@@ -2,8 +2,8 @@
    "MDownloadlink": "https://mylivetv.cf/movie/download/{TMDB}",
    "MServers": [
       {
-         "Api":"https://autoembed.to/movie/tmdb/{TMDB}?server=1&ss=1",
-         "Name":"Server 01(Recommended)"
+         "Api":"https://autoembed.to/movie/tmdb/{TMDB}",
+         "Name":"Server 01 (Recommended)"
       },
       {
          "Api": "http://zmovies.likesyou.org/se_player.php?video_id={TMDB}&tmdb=1",
@@ -37,7 +37,7 @@
    "SDownloadlink": "https://mylivetv.cf/tv/download/{TMDB}{S}{E}",
    "SServers": [
       {
-         "Api":"https://autoembed.to/tv/tmdb/{TMDB}-{S}-{E}?server=1&ss=1",
+         "Api":"https://autoembed.to/tv/tmdb/{TMDB}-{S}-{E}?",
          "Name":"Server 01 (Recommended)"
       },
       {
