@@ -37,7 +37,7 @@
    "SDownloadlink": "https://mylivetv.cf/tv/download/{TMDB}{S}{E}",
    "SServers": [
       {
-         "Api":"https://autoembed.to/tv/tmdb/{TMDB}-{S}-{E}?",
+         "Api":"https://autoembed.to/tv/tmdb/{TMDB}-{S}-{E}",
          "Name":"Server 01 (Recommended)"
       },
       {
