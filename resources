@@ -1,6 +1,5 @@
 {
    "GC_LINK": "m.me/j/AbbsgHi_UqSrj3US",
-   "MDownloadlink": "https://mylivetv.cf/movie/download/{TMDB}",
    "MServers": [
       {
          "Api":"https://autoembed.to/movie/tmdb/{TMDB}",
@@ -35,7 +34,6 @@
          "Name": "Server 08 (REQSTD)"
       }
    ],
-   "SDownloadlink": "https://mylivetv.cf/tv/download/{TMDB}{S}{E}",
    "SServers": [
       {
          "Api":"https://autoembed.to/tv/tmdb/{TMDB}-{S}-{E}",
