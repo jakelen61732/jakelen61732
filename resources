@@ -30,7 +30,7 @@
          "Name": "Server 07 (PH)"
       },
       {
-         "Api": "https://zmovies-api.kjaydev.xyz/zmovies/tmdb/movie/{TMDB}",
+         "Api": "https://zmovies-api.kjaydev.xyz/tmdb/movie/{TMDB}",
          "Name": "Server 08 (REQSTD)"
       }
    ],
@@ -64,7 +64,7 @@
          "Name": "Server 07 (PH)"
       },
       {
-         "Api": "https://zmovies-api.kjaydev.xyz/zmovies/tmdb/tv/{TMDB}s{S}e{E}",
+         "Api": "https://zmovies-api.kjaydev.xyz/tmdb/tv/{TMDB}s{S}e{E}",
          "Name": "Server 08 (REQSTD)"
       }
    ]
