@@ -6,7 +6,7 @@
          "Name": "Server 01 (Hindi | Intl)"
       },
       {
-         "Api": "https://zmovies.likesyou.org/se_player.php?video_id={TMDB}&tmdb=1",
+         "Api": "http://zmovies.likesyou.org/se_player.php?video_id={TMDB}&tmdb=1",
          "Name": "Server 02 (Intl)"
       },
       {
@@ -40,7 +40,7 @@
          "Name": "Server 01 (Hindi | Intl)"
       },
       {
-         "Api": "https://zmovies.likesyou.org/se_player.php?video_id={TMDB}&tmdb=1&s={S}&e={E}",
+         "Api": "http://zmovies.likesyou.org/se_player.php?video_id={TMDB}&tmdb=1&s={S}&e={E}",
          "Name": "Server 02 (Intl)"
       },
       {
