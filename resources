@@ -26,7 +26,7 @@
          "Name": "Server 06 (PH)"
       },
       {
-         "Api": "https://moviehab.asia/embed/movie?tmdb={TMDB}",
+         "Api": "https://vivamax.asia/embed/movie?tmdb={TMDB}",
          "Name": "Server 07 (PH)"
       },
       {
@@ -60,7 +60,7 @@
          "Name": "Server 06 (PH)"
       },
       {
-         "Api": "https://moviehab.asia/embed/{TMDB}/{S}/{E}",
+         "Api": "https://vivamax.asia/embed/{TMDB}/{S}/{E}",
          "Name": "Server 07 (PH)"
       },
       {
