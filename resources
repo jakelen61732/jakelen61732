@@ -3,23 +3,27 @@
    "MServers": [
       {
          "Api": "https://autoembed.to/movie/tmdb/{TMDB}",
-         "Name": "Server 01 (Hindi | Intl)"
+         "Name": "Server 01"
       },
       {
          "Api": "http://zmovies.likesyou.org/se_player.php?video_id={TMDB}&tmdb=1",
-         "Name": "Server 02 (Intl)"
+         "Name": "Server 02"
       },
       {
          "Api": "https://vidsrc.me/embed/movie?tmdb={TMDB}",
-         "Name": "Server 03 (Intl)"
+         "Name": "Server 03"
+      },
+      {
+         "Api": "https://vidsrc.to/embed/movie/{TMDB}",
+         "Name": "Server 04"
       },
       {
          "Api": "https://databasegdriveplayer.xyz/player.php?imdb={IMDB}",
-         "Name": "Server 04 (Intl)"
+         "Name": "Server 04"
       },
       {
          "Api": "https://embed.smashystream.com/playere.php?tmdb={TMDB}",
-         "Name": "Server 05 (Hindi | Intl)"
+         "Name": "Server 05"
       },
       {
          "Api": "https://xtreamhub.com/video/{TMDB}",
@@ -45,6 +49,10 @@
       },
       {
          "Api": "https://vidsrc.me/embed/tv?tmdb={TMDB}&season={S}&episode={E}",
+         "Name": "Server 03 (Intl)"
+      },
+      {
+         "Api": "https://vidsrc.to/embed/tv/{TMDB}/&{S}/{E}",
          "Name": "Server 03 (Intl)"
       },
       {
