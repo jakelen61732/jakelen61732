@@ -52,7 +52,7 @@
          "Name": "Server 03"
       },
       {
-         "Api": "https://vidsrc.to/embed/tv/{TMDB}/&{S}/{E}",
+         "Api": "https://vidsrc.to/embed/tv/{TMDB}/{S}/{E}",
          "Name": "Server 04"
       },
       {
