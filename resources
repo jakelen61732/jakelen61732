@@ -18,7 +18,7 @@
          "Name": "Server 04"
       },
       {
-         "Api": "https://databasegdriveplayer.xyz/player.php?imdb={IMDB}",
+         "Api": "https://multiembed.mov/directstream.php?video_id={TMDB}&tmdb=1",
          "Name": "Server 05"
       },
       {
@@ -56,7 +56,7 @@
          "Name": "Server 04"
       },
       {
-         "Api": "https://databasegdriveplayer.xyz/player.php?type=series&tmdb={TMDB}&season={S}&episode={E}",
+         "Api": "https://multiembed.mov/directstream.php?video_id={TMDB}&tmdb=1&s={S}&e={E}",
          "Name": "Server 05"
       },
       {
