@@ -1,0 +1,79 @@
+{
+   "GC_LINK": "m.me/j/AbbsgHi_UqSrj3US",
+   "MServers": [
+      {
+         "Api": "https://autoembed.to/movie/tmdb/{TMDB}",
+         "Name": "Server 01"
+      },
+      {
+         "Api": "http://zmovies.likesyou.org/se_player.php?video_id={TMDB}&tmdb=1",
+         "Name": "Server 02"
+      },
+      {
+         "Api": "https://vidsrc.me/embed/movie?tmdb={TMDB}",
+         "Name": "Server 03"
+      },
+      {
+         "Api": "https://vidsrc.to/embed/movie/{TMDB}",
+         "Name": "Server 04"
+      },
+      {
+         "Api": "https://multiembed.mov/directstream.php?video_id={TMDB}&tmdb=1",
+         "Name": "Server 05"
+      },
+      {
+         "Api": "https://embed.smashystream.com/playere.php?tmdb={TMDB}",
+         "Name": "Server 06"
+      },
+      {
+         "Api": "https://xtreamhub.com/video/{TMDB}",
+         "Name": "Server 07 (PH)"
+      },
+      {
+         "Api": "https://vivamax.asia/embed/movie?tmdb={TMDB}",
+         "Name": "Server 08 (PH)"
+      },
+      {
+         "Api": "https://zmovies-api.kjaydev.xyz/tmdb/movie/{TMDB}",
+         "Name": "Server 09 (REQSTD)"
+      }
+   ],
+   "SServers": [
+      {
+         "Api": "https://autoembed.to/tv/tmdb/{TMDB}-{S}-{E}",
+         "Name": "Server 01"
+      },
+      {
+         "Api": "http://zmovies.likesyou.org/se_player.php?video_id={TMDB}&tmdb=1&s={S}&e={E}",
+         "Name": "Server 02"
+      },
+      {
+         "Api": "https://vidsrc.me/embed/tv?tmdb={TMDB}&season={S}&episode={E}",
+         "Name": "Server 03"
+      },
+      {
+         "Api": "https://vidsrc.to/embed/tv/{TMDB}/{S}/{E}",
+         "Name": "Server 04"
+      },
+      {
+         "Api": "https://multiembed.mov/directstream.php?video_id={TMDB}&tmdb=1&s={S}&e={E}",
+         "Name": "Server 05"
+      },
+      {
+         "Api": "https://embed.smashystream.com/playere.php?tmdb={TMDB}&season={S}&episode={E}",
+         "Name": "Server 06"
+      },
+      {
+         "Api": "https://xtreamhub.com/video/{TMDB}s{S}e{E}",
+         "Name": "Server 07 (PH)"
+      },
+      {
+         "Api": "https://vivamax.asia/embed/{TMDB}/{S}/{E}",
+         "Name": "Server 08 (PH)"
+      },
+      {
+         "Api": "https://zmovies-api.kjaydev.xyz/tmdb/tv/{TMDB}s{S}e{E}",
+         "Name": "Server 09 (REQSTD)"
+      }
+   ]
+}
