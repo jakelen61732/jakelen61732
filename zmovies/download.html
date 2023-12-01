@@ -17,8 +17,7 @@
 <style>
 .center {
   margin: auto;
-  width: 50%;
-  border: 3px solid green;
+  width: auto;
   padding: 10px;
 }
 .btn {
@@ -29,7 +28,14 @@
   cursor: pointer;
   font-size: 20px;
 }
-
+#download {
+  width: auto;
+  background-color: rgb(0, 65, 11);
+  color: white;
+  padding: 10px 20px;
+  border-radius: 1rem;
+  line-height: 2.25rem;
+}
 /* Darker background on mouse-over */
 .btn:hover {
   background-color: RoyalBlue;
@@ -38,14 +44,14 @@
 </head>
 <body>
 <center>
-<h2><font color="FFFFFF">Download The New ZMovies Philippines</font></h2>
+<h1><font color="FFFFFF">ZMovies Philippines</font></h1>
 <p><font color="FFFFFF">Sorry, this app has no longer worked.😭<br><br> Please download the new Zmovies app below.<br> Thank you and sorry for the inconvenience.</font></p>
 
-<h3><font color="008000">Play Store</font>:</h3>
-<button class="btn" onclick="window.location.href='https://play.google.com/store/apps/details?id=com.kjaydev.zmoviesV2';"><i class="fa fa-download"></i>Download</button>
+<h3><font color="008000">Play Store</font> ⤵️</h3>
+<button id="download" class="btn" onclick="window.location.href='https://play.google.com/store/apps/details?id=com.kjaydev.zmoviesV2';"><i class="fa fa-download"></i>Download</button>
 
-<h3><font color="FF0000">No Play Store</font>:</h3>
-<button class="btn" onclick="window.location.href='download::https://www.google.com';"><i class="fa fa-download"></i>Download</button>
+<h3><font color="FF0000">No Play Store</font> ⤵️</h3>
+<button id="download" class="btn" onclick="window.location.href='download::https://www.google.com';"><i class="fa fa-download"></i>Download</button>
 </center>
 </body>
 </html>
