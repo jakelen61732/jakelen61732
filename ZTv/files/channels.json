@@ -1,22 +1,58 @@
 [
   {
-    "Name":"All Channels",
-    "Link":"https://i.mjh.nz/SamsungTVPlus/all.m3u8"
+    "Link": "https://i.mjh.nz/SamsungTVPlus/all.m3u8",
+    "Name": "All Channels"
   },
   {
-    "Name":"Austria",
-    "Link":"https://i.mjh.nz/SamsungTVPlus/at.m3u8"
+    "Link": "https://i.mjh.nz/SamsungTVPlus/at.m3u8",
+    "Name": "Austria"
   },
   {
-    "Name":"Canada",
-    "Link":"https://i.mjh.nz/SamsungTVPlus/ca.m3u8"
+    "Link": "https://i.mjh.nz/SamsungTVPlus/ca.m3u8",
+    "Name": "Canada"
   },
   {
-    "Name":"Switzerland",
-    "Link":"https://i.mjh.nz/SamsungTVPlus/ch.m3u8"
+    "Link": "https://i.mjh.nz/SamsungTVPlus/ch.m3u8",
+    "Name": "Switzerland"
   },
   {
-    "Name":"Germany",
-    "Link":"https://i.mjh.nz/SamsungTVPlus/de.m3u8"
+    "Link": "https://i.mjh.nz/SamsungTVPlus/de.m3u8",
+    "Name": "Germany"
+  },
+  {
+    "Link": "https://i.mjh.nz/SamsungTVPlus/es.m3u8",
+    "Name": "Spain"
+  },
+  {
+    "Link": "https://i.mjh.nz/SamsungTVPlus/fr.m3u8",
+    "Name": "France"
+  },
+  {
+    "Link": "https://i.mjh.nz/SamsungTVPlus/gb.m3u8",
+    "Name": "United Kingdom"
+  },
+  {
+    "Link": "https://i.mjh.nz/SamsungTVPlus/in.m3u8",
+    "Name": "India"
+  },
+  {
+    "Link": "https://i.mjh.nz/SamsungTVPlus/it.m3u8",
+    "Name": "Italy"
+  },
+  {
+    "Link": "https://i.mjh.nz/SamsungTVPlus/kr.m3u8",
+    "Name": "South Korea"
+  },
+  {
+    "Link": "https://i.mjh.nz/SamsungTVPlus/us.m3u8",
+    "Name": "United States"
+  },
+  {
+    "Name": "Adults Only!!",
+    "Link": "http://adultiptv.net/chs.m3u"
+  },
+  {
+    "Name": "Adults Only!",
+    "Link": "http://adultiptv.net/videos.m3u8"
   }
 ]
