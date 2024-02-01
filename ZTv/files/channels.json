@@ -1,0 +1,22 @@
+[
+  {
+    "Name":"All Channels",
+    "Link":"https://i.mjh.nz/SamsungTVPlus/all.m3u8"
+  },
+  {
+    "Name":"Austria",
+    "Link":"https://i.mjh.nz/SamsungTVPlus/at.m3u8"
+  },
+  {
+    "Name":"Canada",
+    "Link":"https://i.mjh.nz/SamsungTVPlus/ca.m3u8"
+  },
+  {
+    "Name":"Switzerland",
+    "Link":"https://i.mjh.nz/SamsungTVPlus/ch.m3u8"
+  },
+  {
+    "Name":"Germany",
+    "Link":"https://i.mjh.nz/SamsungTVPlus/de.m3u8"
+  }
+]
