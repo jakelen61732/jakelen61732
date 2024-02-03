@@ -48,14 +48,6 @@
       "Name": "United States"
    },
    {
-      "Name": "Adults Only!!",
-      "Link": "https://jakelen61732.github.io/jakelen61732/ZTv/files/live.m3u8"
-   },
-   {
-      "Name": "Adults Only!",
-      "Link": "https://jakelen61732.github.io/jakelen61732/ZTv/files/videos.m3u8"
-   },
-   {
       "Name": "PlutoTV",
       "Link": "http://i.mjh.nz/PlutoTV/all.m3u8"
    },
@@ -64,7 +56,11 @@
       "Link": "https://i.mjh.nz/Plex/all.m3u8"
    },
    {
-      "Name": "PBS",
-      "Link": "https://i.mjh.nz/PBS/all.m3u8"
+      "Name": "Adults Only!!",
+      "Link": "https://jakelen61732.github.io/jakelen61732/ZTv/files/live.m3u8"
+   },
+   {
+      "Name": "Adults Only!",
+      "Link": "https://jakelen61732.github.io/jakelen61732/ZTv/files/videos.m3u8"
    }
 ]
