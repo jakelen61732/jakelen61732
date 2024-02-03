@@ -1,58 +1,70 @@
 [
-  {
-    "Link": "https://i.mjh.nz/SamsungTVPlus/all.m3u8",
-    "Name": "All Channels"
-  },
-  {
-    "Link": "https://i.mjh.nz/SamsungTVPlus/at.m3u8",
-    "Name": "Austria"
-  },
-  {
-    "Link": "https://i.mjh.nz/SamsungTVPlus/ca.m3u8",
-    "Name": "Canada"
-  },
-  {
-    "Link": "https://i.mjh.nz/SamsungTVPlus/ch.m3u8",
-    "Name": "Switzerland"
-  },
-  {
-    "Link": "https://i.mjh.nz/SamsungTVPlus/de.m3u8",
-    "Name": "Germany"
-  },
-  {
-    "Link": "https://i.mjh.nz/SamsungTVPlus/es.m3u8",
-    "Name": "Spain"
-  },
-  {
-    "Link": "https://i.mjh.nz/SamsungTVPlus/fr.m3u8",
-    "Name": "France"
-  },
-  {
-    "Link": "https://i.mjh.nz/SamsungTVPlus/gb.m3u8",
-    "Name": "United Kingdom"
-  },
-  {
-    "Link": "https://i.mjh.nz/SamsungTVPlus/in.m3u8",
-    "Name": "India"
-  },
-  {
-    "Link": "https://i.mjh.nz/SamsungTVPlus/it.m3u8",
-    "Name": "Italy"
-  },
-  {
-    "Link": "https://i.mjh.nz/SamsungTVPlus/kr.m3u8",
-    "Name": "South Korea"
-  },
-  {
-    "Link": "https://i.mjh.nz/SamsungTVPlus/us.m3u8",
-    "Name": "United States"
-  },
-  {
-    "Name": "Adults Only!!",
-    "Link": "https://jakelen61732.github.io/jakelen61732/ZTv/files/live.m3u8"
-  },
-  {
-    "Name": "Adults Only!",
-    "Link": "https://jakelen61732.github.io/jakelen61732/ZTv/files/videos.m3u8"
-  }
+   {
+      "Link": "https://i.mjh.nz/SamsungTVPlus/all.m3u8",
+      "Name": "All Channels"
+   },
+   {
+      "Link": "https://i.mjh.nz/SamsungTVPlus/at.m3u8",
+      "Name": "Austria"
+   },
+   {
+      "Link": "https://i.mjh.nz/SamsungTVPlus/ca.m3u8",
+      "Name": "Canada"
+   },
+   {
+      "Link": "https://i.mjh.nz/SamsungTVPlus/ch.m3u8",
+      "Name": "Switzerland"
+   },
+   {
+      "Link": "https://i.mjh.nz/SamsungTVPlus/de.m3u8",
+      "Name": "Germany"
+   },
+   {
+      "Link": "https://i.mjh.nz/SamsungTVPlus/es.m3u8",
+      "Name": "Spain"
+   },
+   {
+      "Link": "https://i.mjh.nz/SamsungTVPlus/fr.m3u8",
+      "Name": "France"
+   },
+   {
+      "Link": "https://i.mjh.nz/SamsungTVPlus/gb.m3u8",
+      "Name": "United Kingdom"
+   },
+   {
+      "Link": "https://i.mjh.nz/SamsungTVPlus/in.m3u8",
+      "Name": "India"
+   },
+   {
+      "Link": "https://i.mjh.nz/SamsungTVPlus/it.m3u8",
+      "Name": "Italy"
+   },
+   {
+      "Link": "https://i.mjh.nz/SamsungTVPlus/kr.m3u8",
+      "Name": "South Korea"
+   },
+   {
+      "Link": "https://i.mjh.nz/SamsungTVPlus/us.m3u8",
+      "Name": "United States"
+   },
+   {
+      "Name": "Adults Only!!",
+      "Link": "https://jakelen61732.github.io/jakelen61732/ZTv/files/live.m3u8"
+   },
+   {
+      "Name": "Adults Only!",
+      "Link": "https://jakelen61732.github.io/jakelen61732/ZTv/files/videos.m3u8"
+   },
+   {
+      "Name": "PlutoTV",
+      "Link": "http://i.mjh.nz/PlutoTV/all.m3u8"
+   },
+   {
+      "Name": "Plex",
+      "Link": "https://i.mjh.nz/Plex/all.m3u8"
+   },
+   {
+      "Name": "PBS",
+      "Link": "https://i.mjh.nz/PBS/all.m3u8"
+   }
 ]
