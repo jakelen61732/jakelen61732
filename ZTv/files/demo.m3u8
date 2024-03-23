@@ -1,33 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Demo",HD (MP4, H264)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="Demo",HD (MP4, H264)
 https://storage.googleapis.com/wvmedia/clear/h264/tears/tears.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Demo",UHD (MP4, H264)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="Demo",UHD (MP4, H264)
 https://storage.googleapis.com/wvmedia/clear/h264/tears/tears_uhd.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Demo",HD (MP4, H265)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="Demo",HD (MP4, H265)
 https://storage.googleapis.com/wvmedia/clear/hevc/tears/tears.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Demo",UHD (MP4, H265)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="Demo",UHD (MP4, H265)
 https://storage.googleapis.com/wvmedia/clear/hevc/tears/tears_uhd.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Demo",HD (WebM, VP9)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="Demo",HD (WebM, VP9)
 https://storage.googleapis.com/wvmedia/clear/vp9/tears/tears.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Demo",UHD (WebM, VP9)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="Demo",UHD (WebM, VP9)
 https://storage.googleapis.com/wvmedia/clear/vp9/tears/tears_uhd.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Demo",HD (MP4, H264, 60fps)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="Demo",HD (MP4, H264, 60fps)
 https://storage.googleapis.com/exoplayer-test-media-1/60fps/bbb-clear-1080/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Demo",4K (MP4, H264, 60fps)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="Demo",4K (MP4, H264, 60fps)
 https://storage.googleapis.com/exoplayer-test-media-1/60fps/bbb-clear-2160/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Demo",DASH - Multiple base URLs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="Demo",DASH - Multiple base URLs
 https://storage.googleapis.com/exoplayer-test-media-0/dash-multiple-base-urls/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Demo",DASH - Multiple base URLs (fail over)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="Demo",DASH - Multiple base URLs (fail over)
 https://storage.googleapis.com/exoplayer-test-media-0/dash-multiple-base-urls/manifest-failover.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Demo",Apple 4x3 basic stream (TS)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="Demo",Apple 4x3 basic stream (TS)
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Demo",Apple 16x9 basic stream (TS)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="Demo",Apple 16x9 basic stream (TS)
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Demo",Apple multivariant playlist advanced (TS)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="Demo",Apple multivariant playlist advanced (TS)
 https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Demo",Apple multivariant playlist advanced (FMP4)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="Demo",Apple multivariant playlist advanced (FMP4)
 https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Demo",Apple media playlist (TS)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="Demo",Apple media playlist (TS)
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/gear1/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Demo",Apple media playlist (AAC)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="Demo",Apple media playlist (AAC)
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/gear0/prog_index.m3u8
