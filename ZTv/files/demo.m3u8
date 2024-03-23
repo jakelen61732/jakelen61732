@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="Demo",HD (MP4, H264)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="Demo",HD (MP4/H264)
 https://storage.googleapis.com/wvmedia/clear/h264/tears/tears.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="Demo",UHD (MP4, H264)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="Demo",UHD (MP4/H264)
 https://storage.googleapis.com/wvmedia/clear/h264/tears/tears_uhd.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="Demo",HD (MP4, H265)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="Demo",HD (MP4/H265)
 https://storage.googleapis.com/wvmedia/clear/hevc/tears/tears.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="Demo",UHD (MP4, H265)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="Demo",UHD (MP4/H265)
 https://storage.googleapis.com/wvmedia/clear/hevc/tears/tears_uhd.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="Demo",HD (WebM, VP9)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="Demo",HD (WebM/VP9)
 https://storage.googleapis.com/wvmedia/clear/vp9/tears/tears.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="Demo",UHD (WebM, VP9)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="Demo",UHD (WebM/VP9)
 https://storage.googleapis.com/wvmedia/clear/vp9/tears/tears_uhd.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="Demo",HD (MP4, H264, 60fps)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="Demo",HD (MP4/H264/60fps)
 https://storage.googleapis.com/exoplayer-test-media-1/60fps/bbb-clear-1080/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="Demo",4K (MP4, H264, 60fps)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="Demo",4K (MP4/H264/60fps)
 https://storage.googleapis.com/exoplayer-test-media-1/60fps/bbb-clear-2160/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="Demo",DASH - Multiple base URLs
 https://storage.googleapis.com/exoplayer-test-media-0/dash-multiple-base-urls/manifest.mpd
