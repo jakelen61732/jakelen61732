@@ -1,5 +1,5 @@
 {
-   "Channels":[
+   "Channels1":[
       {
          "link": "https://i.mjh.nz/SamsungTVPlus/all.m3u8",
          "title": "SamsungTVPlus All Channels 🌐"
@@ -65,10 +65,10 @@
          "link": "https://jakelen61732.github.io/jakelen61732/ZTv/files/videos.m3u8"
       }
    ],
-   "Channels":[
+   "Channels2":[
       {
-         "title":"BigBuckBunny",
-         "link":"https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+         "title":"Demo Videos",
+         "link":"https://jakelen61732.github.io/jakelen61732/ZTv/files/demo.m3u8"
       }
    ]
 }
