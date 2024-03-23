@@ -1,66 +1,74 @@
-[
-   {
-      "link": "https://i.mjh.nz/SamsungTVPlus/all.m3u8",
-      "title": "SamsungTVPlus All Channels 🌐"
-   },
-   {
-      "link": "https://i.mjh.nz/SamsungTVPlus/at.m3u8",
-      "title": "SamsungTVPlus Austria 🇦🇹"
-   },
-   {
-      "link": "https://i.mjh.nz/SamsungTVPlus/ca.m3u8",
-      "title": "SamsungTVPlus Canada 🇨🇦"
-   },
-   {
-      "link": "https://i.mjh.nz/SamsungTVPlus/ch.m3u8",
-      "title": "SamsungTVPlus Switzerland 🇨🇭"
-   },
-   {
-      "link": "https://i.mjh.nz/SamsungTVPlus/de.m3u8",
-      "title": "SamsungTVPlus Germany 🇩🇪"
-   },
-   {
-      "link": "https://i.mjh.nz/SamsungTVPlus/es.m3u8",
-      "title": "SamsungTVPlus Spain 🇪🇸"
-   },
-   {
-      "link": "https://i.mjh.nz/SamsungTVPlus/fr.m3u8",
-      "title": "SamsungTVPlus France 🇫🇷"
-   },
-   {
-      "link": "https://i.mjh.nz/SamsungTVPlus/gb.m3u8",
-      "title": "SamsungTVPlus United Kingdom 🇬🇧"
-   },
-   {
-      "link": "https://i.mjh.nz/SamsungTVPlus/in.m3u8",
-      "title": "SamsungTVPlus India 🇮🇳"
-   },
-   {
-      "link": "https://i.mjh.nz/SamsungTVPlus/it.m3u8",
-      "title": "SamsungTVPlus Italy 🇮🇹"
-   },
-   {
-      "link": "https://i.mjh.nz/SamsungTVPlus/kr.m3u8",
-      "title": "SamsungTVPlus South Korea 🇰🇷"
-   },
-   {
-      "link": "https://i.mjh.nz/SamsungTVPlus/us.m3u8",
-      "title": "SamsungTVPlus United States 🇺🇸"
-   },
-   {
-      "title": "PlutoTV All Channels 🌐",
-      "link": "https://i.mjh.nz/PlutoTV/all.m3u8"
-   },
-   {
-      "title": "Plex All Channels 🌐",
-      "link": "https://i.mjh.nz/Plex/all.m3u8"
-   },
-   {
-      "title": "Adults Only 🔞",
-      "link": "https://jakelen61732.github.io/jakelen61732/ZTv/files/live.m3u8"
-   },
-   {
-      "title": "Adults Only 🔞",
-      "link": "https://jakelen61732.github.io/jakelen61732/ZTv/files/videos.m3u8"
-   }
-]
+{
+   "Channels":[
+      {
+         "link": "https://i.mjh.nz/SamsungTVPlus/all.m3u8",
+         "title": "SamsungTVPlus All Channels 🌐"
+      },
+      {
+         "link": "https://i.mjh.nz/SamsungTVPlus/at.m3u8",
+         "title": "SamsungTVPlus Austria 🇦🇹"
+      },
+      {
+         "link": "https://i.mjh.nz/SamsungTVPlus/ca.m3u8",
+         "title": "SamsungTVPlus Canada 🇨🇦"
+      },
+      {
+         "link": "https://i.mjh.nz/SamsungTVPlus/ch.m3u8",
+         "title": "SamsungTVPlus Switzerland 🇨🇭"
+      },
+      {
+         "link": "https://i.mjh.nz/SamsungTVPlus/de.m3u8",
+         "title": "SamsungTVPlus Germany 🇩🇪"
+      },
+      {
+         "link": "https://i.mjh.nz/SamsungTVPlus/es.m3u8",
+         "title": "SamsungTVPlus Spain 🇪🇸"
+      },
+      {
+         "link": "https://i.mjh.nz/SamsungTVPlus/fr.m3u8",
+         "title": "SamsungTVPlus France 🇫🇷"
+      },
+      {
+         "link": "https://i.mjh.nz/SamsungTVPlus/gb.m3u8",
+         "title": "SamsungTVPlus United Kingdom 🇬🇧"
+      },
+      {
+         "link": "https://i.mjh.nz/SamsungTVPlus/in.m3u8",
+         "title": "SamsungTVPlus India 🇮🇳"
+      },
+      {
+         "link": "https://i.mjh.nz/SamsungTVPlus/it.m3u8",
+         "title": "SamsungTVPlus Italy 🇮🇹"
+      },
+      {
+         "link": "https://i.mjh.nz/SamsungTVPlus/kr.m3u8",
+         "title": "SamsungTVPlus South Korea 🇰🇷"
+      },
+      {
+         "link": "https://i.mjh.nz/SamsungTVPlus/us.m3u8",
+         "title": "SamsungTVPlus United States 🇺🇸"
+      },
+      {
+         "title": "PlutoTV All Channels 🌐",
+         "link": "https://i.mjh.nz/PlutoTV/all.m3u8"
+      },
+      {
+         "title": "Plex All Channels 🌐",
+         "link": "https://i.mjh.nz/Plex/all.m3u8"
+      },
+      {
+         "title": "Adults Only 🔞",
+         "link": "https://jakelen61732.github.io/jakelen61732/ZTv/files/live.m3u8"
+      },
+      {
+         "title": "Adults Only 🔞",
+         "link": "https://jakelen61732.github.io/jakelen61732/ZTv/files/videos.m3u8"
+      }
+   ],
+   "Channels":[
+      {
+         "title":"BigBuckBunny",
+         "link":"https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+      }
+   ]
+}
