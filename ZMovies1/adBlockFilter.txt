@@ -4,7 +4,6 @@
 .us/pingjs/
 .com/analytics.js
 .com/1a/39/f4/
-/metrika/tag.js
 /asd100.bin
 /v1/jwplayer6/ping.gif
 /5/6180130/
