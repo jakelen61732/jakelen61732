@@ -1,5 +1,5 @@
 .com/pixel/
-.com/js15_as.js
+histats.com
 .com/88/1d/c4/
 .us/pingjs/
 .com/analytics.js
@@ -10,7 +10,6 @@
 6b/84/09/
 /bootstrap-submenu.min.js
 /txt.wav.min.js
-/script/suurl5.php
 /ut/hb.php
 /5/5495238/?oo=1
 /BNM/BNM.php
