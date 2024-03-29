@@ -59,7 +59,6 @@ gloaphoo.net
 adforcast.com
 zimpolo.com
 owingsorthealthy.com
-footer-powered-by-000webhost-white2.png
 vaitotoo.net
 yapclench.com
 dtscout.com
@@ -75,3 +74,4 @@ midgerelativelyhoax.com/
 pogothere.xyz
 /aas/r45d/vki/
 mc.yandex.ru
+powered-by-000webhost.png
