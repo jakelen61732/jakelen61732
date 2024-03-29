@@ -18,7 +18,6 @@
 /BNM/BNM.php
 /js/code.min.js
 /6b/84/09/
-.com/sub/
 zap.buzz/
 /js/plausible.js
 .com/g/collect?v
