@@ -1,7 +1,7 @@
 .com/pixel/
 histats.com
 .com/88/1d/c4/
-.us/pingjs/
+amung.us
 .com/analytics.js
 .com/1a/39/f4/
 /v1/jwplayer6/ping.gif
