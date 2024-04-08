@@ -1,12 +1,12 @@
 <html lang="en-US" itemscope="" itemtype="http://schema.org/WebPage">
 
 <head>
-  <title></title>
+  <title>ZMovies Philippines Multi Player</title>
   <meta charset="UTF-8" />
   <meta name="theme-color" content="#31353B">
   <meta name="msapplication-navbutton-color" content="#31353B">
   <meta name="apple-mobile-web-app-status-bar-style" content="#31353B">
-  <meta name="description" content="">
+  <meta name="description" content="ZMovies Philippines Multi Player">
   <meta name="robots" content="noindex, nofollow">
   <meta property="og:image" content="">
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
@@ -15,7 +15,8 @@
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" rel="stylesheet">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
   <script disable-devtool-auto src='https://cdn.jsdelivr.net/npm/disable-devtool@latest'></script>
-  <link rel="icon" href="https://jakelen61732.github.io/jakelen61732/zmovies/assets/images/favicon.png" type="image/x-icon">
+  <link rel="icon" href="https://jakelen61732.github.io/jakelen61732/zmovies/assets/images/favicon.png"
+    type="image/x-icon">
   <style>
     .loading {
       background-color: #000;
@@ -209,8 +210,8 @@
 
     <div id="bgImage" class="loading" style="display:block;"></div>
     <div onclick="bgImage();" class="playbtnx"
-      style="position:absolute;top:42%;width:100%;text-align:center;cursor:pointer;"><img
-        src="./images/play4.png" alt="play icon" style="width:100px;"></div>
+      style="position:absolute;top:42%;width:100%;text-align:center;cursor:pointer;"><img src="./images/play4.png"
+        alt="play icon" style="width:100px;"></div>
 
     <iframe id="vsrcs" src="about:blank" width="100%" height="90%" frameborder="0" scrolling="no"
       allowfullscreen></iframe>
@@ -218,49 +219,89 @@
   </div>
 
   <script>
-    // Get the ID from the URL
+
     var urlParams = new URLSearchParams(window.location.search);
-    var idFromUrl = urlParams.get("movieId");
+    var idFromUrl = urlParams.get("id");
+    var season = urlParams.get("s");
+    var episode = urlParams.get("e");
+    if (idFromUrl) {
+      getDetails(idFromUrl);
+    }
 
-    const options = {
-      method: 'GET',
-      headers: {
-        accept: 'application/json',
-        Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI1MjFlNzMyM2FkY2E5MzVmOTFlYTc0MzQzOTJhNzA2YyIsInN1YiI6IjYzMjcyODQ2YmJkMGIwMDA4MjE3M2E0OSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.ET9dcYHU9b_aza5jMmWqjtDhspF-8I6N2okHsQWw780'
-      }
-    };
-
-    var elements = document.getElementsByClassName("loading");
-
-    fetch('https://api.themoviedb.org/3/movie/' + idFromUrl + '?language=en-US', options)
-      .then(response => response.json())
-      .then(response => {
-        document.title = response.original_title + " - Philippines Multi Player";
-        $('meta[name="description"]').attr("content", response.overview);
-        var imageUrl = 'https://image.tmdb.org/t/p/original' + response.backdrop_path;
-        $('meta[property="og:image"]').attr("content", imageUrl);
-        for (var i = 0; i < elements.length; i++) {
-          elements[i].style.backgroundImage = 'url(' + imageUrl + ')';
+    function getDetails(idFromUrl) {
+      const options = {
+        method: 'GET',
+        headers: {
+          accept: 'application/json',
+          Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI1MjFlNzMyM2FkY2E5MzVmOTFlYTc0MzQzOTJhNzA2YyIsInN1YiI6IjYzMjcyODQ2YmJkMGIwMDA4MjE3M2E0OSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.ET9dcYHU9b_aza5jMmWqjtDhspF-8I6N2okHsQWw780'
         }
-      })
-      .catch(err => console.error(err));
+      };
+
+      var elements = document.getElementsByClassName("loading");
+
+      var isTv
+      if (season && episode) {
+        isTv = 'tv';
+      } else {
+        isTv = 'movie';
+      }
+
+      fetch('https://api.themoviedb.org/3/' + isTv + '/' + idFromUrl + '?language=en-US', options)
+        .then(response => response.json())
+        .then(response => {
+          var name = response.original_name;
+          if (season && episode) {
+            document.title = response.original_name + ' Season ' + season + ' Episode ' + episode + " - Philippines Multi Player";
+          } else {
+            document.title = response.original_title + " - Philippines Multi Player";
+          }
+          $('meta[name="description"]').attr("content", response.overview);
+          var imageUrl = 'https://image.tmdb.org/t/p/original' + response.backdrop_path;
+          $('meta[property="og:image"]').attr("content", imageUrl);
+          for (var i = 0; i < elements.length; i++) {
+            elements[i].style.backgroundImage = 'url(' + imageUrl + ')';
+          }
+        })
+        .catch(err => console.error(err));
+
+    }
 
     function myFunction(position) {
       switch (position) {
         case 0:
-          go('https://moviesapi.club/movie/' + idFromUrl);
+          if (season && episode) {
+            go('https://moviesapi.club/tv/' + idFromUrl + '-' + season + '-' + episode);
+          } else {
+            go('https://moviesapi.club/movie/' + idFromUrl);
+          }
           break;
         case 1:
-          go('https://vidsrc.me/embed/movie?tmdb=' + idFromUrl);
+          if (season && episode) {
+            go('https://vidsrc.me/embed/tv?tmdb=' + idFromUrl + '&season=' + season + '&episode=' + episode);
+          } else {
+            go('https://vidsrc.me/embed/movie?tmdb=' + idFromUrl);
+          }
           break;
         case 2:
-          go('https://vidsrc.to/embed/movie/' + idFromUrl);
+          if (season && episode) {
+            go('https://vidsrc.to/embed/tv/' + idFromUrl + '/' + season + '/' + episode);
+          } else {
+            go('https://vidsrc.to/embed/movie/' + idFromUrl);
+          }
           break;
         case 3:
-          go('https://multiembed.mov/?video_id=' + idFromUrl + '&tmdb=1');
+          if (season && episode) {
+            go('https://multiembed.mov/?video_id=' + idFromUrl + '&tmdb=1&s=' + season + '&e=' + episode);
+          } else {
+            go('https://multiembed.mov/?video_id=' + idFromUrl + '&tmdb=1');
+          }
           break;
         case 4:
-          go('https://player.smashystream.com/movie/' + idFromUrl);
+          if (season && episode) {
+            go('https://player.smashy.stream/tv/' + idFromUrl + '?s=' + season + '&e=' + episode);
+          } else {
+            go('https://player.smashystream.com/movie/' + idFromUrl);
+          }
           break;
       }
     }
