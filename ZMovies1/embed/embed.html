@@ -1,0 +1,314 @@
+<html lang="en-US" itemscope="" itemtype="http://schema.org/WebPage">
+
+<head>
+  <title></title>
+  <meta charset="UTF-8" />
+  <meta name="theme-color" content="#31353B">
+  <meta name="msapplication-navbutton-color" content="#31353B">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#31353B">
+  <meta name="description" content="">
+  <meta name="robots" content="noindex, nofollow">
+  <meta property="og:image" content="">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta name='viewport' content='width=device-width, initial-scale=1'>
+  <link rel="stylesheet" href="/css/player.css" type="text/css">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" rel="stylesheet">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+  <script disable-devtool-auto src='https://cdn.jsdelivr.net/npm/disable-devtool@latest'></script>
+  <link rel="icon" href="https://jakelen61732.github.io/jakelen61732/zmovies/assets/images/favicon.png" type="image/x-icon">
+  <style>
+    .loading {
+      background-color: #000;
+      background-position: center center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      filter: blur(2px) brightness(60%);
+      position: absolute;
+      top: 0px;
+      bottom: 0px;
+      right: 0px;
+      left: 0px;
+    }
+
+    iframe {
+      background: #000 url(/images/loading.gif);
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: contain;
+    }
+
+    .dropbtn {
+      color: white;
+      font-size: 14px;
+      border: none;
+      background: none;
+      cursor: pointer;
+      font-family: arial;
+      text-transform: uppercase;
+    }
+
+    .dropdown {
+      position: relative;
+      display: inline-block;
+    }
+
+    .dropdown-content {
+      display: none;
+      position: absolute;
+      background-color: #222;
+      width: 95px;
+      font-size: 12px;
+      box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+      z-index: 1;
+    }
+
+    .dropdown-content a {
+      color: #fff;
+      padding: 5px;
+      text-decoration: none;
+      display: block;
+      border-bottom: 1px dashed #555;
+    }
+
+    .dropdown-content a:hover {
+      background-color: #444;
+      color: #fff;
+    }
+
+    .dropdown:hover .dropdown-content {
+      display: block;
+    }
+
+    .embed-player-bar {
+      height: 40px;
+      color: #fff;
+      display: flex;
+      align-items: center;
+      background-color: #181818;
+      width: 100%;
+      position: unset;
+    }
+
+    .btn-iframe {
+      width: 25%;
+      padding-top: 2px;
+      padding-bottom: 2px;
+      font-size: 15px;
+      font-weight: 600;
+      background-color: #222;
+      z-index: 2;
+      color: white;
+      text-align: center;
+      cursor: pointer;
+    }
+
+    .btn-iframe:hover {
+      background-color: #555;
+    }
+
+    .active {
+      background-color: #555;
+      -webkit-animation: breathing 1s ease-out infinite normal;
+      animation: breathing 1s ease-out infinite normal;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    @-webkit-keyframes breathing {
+      0% {
+        -webkit-transform: scale(0.9);
+        transform: scale(0.9);
+      }
+
+      25% {
+        -webkit-transform: scale(1);
+        transform: scale(1);
+      }
+
+      60% {
+        -webkit-transform: scale(0.9);
+        transform: scale(0.9);
+      }
+
+      100% {
+        -webkit-transform: scale(0.9);
+        transform: scale(0.9);
+      }
+    }
+
+    @keyframes breathing {
+      0% {
+        -webkit-transform: scale(0.9);
+        -ms-transform: scale(0.9);
+        transform: scale(0.9);
+      }
+
+      25% {
+        -webkit-transform: scale(1);
+        -ms-transform: scale(1);
+        transform: scale(1);
+      }
+
+      60% {
+        -webkit-transform: scale(0.9);
+        -ms-transform: scale(0.9);
+        transform: scale(0.9);
+      }
+
+      100% {
+        -webkit-transform: scale(0.9);
+        -ms-transform: scale(0.9);
+        transform: scale(0.9);
+      }
+    }
+
+    .mhide {
+      display: none;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="embed-player">
+
+    <div class="showbar" style="display:none;font-size:16px;padding:5px;position:absolute;">
+      <a href="javascript:void();" onclick="toggleBar();" style="color:#00a2fd;">
+        <i class="fa fa-angle-double-down"></i>
+      </a>
+    </div>
+
+    <div id="vidsrcs" class="embed-player-bar" style="display:none;border-bottom:1px solid #666;">
+
+      <div class="btn-iframe active" onclick="myFunction(0);" style="margin-right:12px;padding:7px;">
+        <button class="dropbtn">
+          <i class="fa fa-play-circle">
+          </i> S<span class="mhide">erver</span> 1</button>
+      </div>
+
+      <div class="btn-iframe" onclick="myFunction(1);" style="margin-right:12px;padding:7px;">
+        <button class="dropbtn">
+          <i class="fa fa-play-circle">
+          </i>S<span class="mhide">erver</span> 2</button>
+      </div>
+
+      <div class="btn-iframe" onclick="myFunction(2);" style="margin-right:12px;padding:7px;">
+        <button class="dropbtn"><i class="fa fa-play-circle">
+          </i> S<span class="mhide">erver</span> 3</button>
+      </div>
+
+      <div class="btn-iframe" onclick="myFunction(3);" style="margin-right:12px;padding:7px;">
+        <button class="dropbtn"><i class="fa fa-play-circle">
+          </i> S<span class="mhide">erver</span> 4</button>
+      </div>
+
+      <div class="btn-iframe" onclick="myFunction(4);" style="margin-right:12px;padding:7px;">
+        <button class="dropbtn"><i class="fa fa-play-circle">
+          </i>S<span class="mhide">erver</span> 5</button>
+      </div>
+
+    </div>
+
+    <div id="bgImage" class="loading" style="display:block;"></div>
+    <div onclick="bgImage();" class="playbtnx"
+      style="position:absolute;top:42%;width:100%;text-align:center;cursor:pointer;"><img
+        src="/images/play4.png" alt="play icon" style="width:100px;"></div>
+
+    <iframe id="vsrcs" src="about:blank" width="100%" height="90%" frameborder="0" scrolling="no"
+      allowfullscreen></iframe>
+
+  </div>
+
+  <script>
+    // Get the ID from the URL
+    var urlParams = new URLSearchParams(window.location.search);
+    var idFromUrl = urlParams.get("movieId");
+
+    const options = {
+      method: 'GET',
+      headers: {
+        accept: 'application/json',
+        Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI1MjFlNzMyM2FkY2E5MzVmOTFlYTc0MzQzOTJhNzA2YyIsInN1YiI6IjYzMjcyODQ2YmJkMGIwMDA4MjE3M2E0OSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.ET9dcYHU9b_aza5jMmWqjtDhspF-8I6N2okHsQWw780'
+      }
+    };
+
+    var elements = document.getElementsByClassName("loading");
+
+    fetch('https://api.themoviedb.org/3/movie/' + idFromUrl + '?language=en-US', options)
+      .then(response => response.json())
+      .then(response => {
+        document.title = response.original_title + " - Philippines Multi Player";
+        $('meta[name="description"]').attr("content", response.overview);
+        var imageUrl = 'https://image.tmdb.org/t/p/original' + response.backdrop_path;
+        $('meta[property="og:image"]').attr("content", imageUrl);
+        for (var i = 0; i < elements.length; i++) {
+          elements[i].style.backgroundImage = 'url(' + imageUrl + ')';
+        }
+      })
+      .catch(err => console.error(err));
+
+    function myFunction(position) {
+      switch (position) {
+        case 0:
+          go('https://moviesapi.club/movie/' + idFromUrl);
+          break;
+        case 1:
+          go('https://vidsrc.me/embed/movie?tmdb=' + idFromUrl);
+          break;
+        case 2:
+          go('https://vidsrc.to/embed/movie/' + idFromUrl);
+          break;
+        case 3:
+          go('https://multiembed.mov/?video_id=' + idFromUrl + '&tmdb=1');
+          break;
+        case 4:
+          go('https://player.smashystream.com/movie/' + idFromUrl);
+          break;
+      }
+    }
+
+    function go(loc) {
+      document.getElementById('vsrcs').src = loc;
+    }
+
+    var header = document.getElementById("vidsrcs");
+    var btns = header.getElementsByClassName("btn-iframe");
+    for (var i = 0; i < btns.length; i++) {
+      btns[i].addEventListener("click", function () {
+        var current = document.getElementsByClassName("active");
+        current[0].className = current[0].className.replace(" active", "");
+        this.className += " active";
+      });
+    }
+    /////////////////////////////////////////
+    $(".playbtnx").click(function () {
+      var iframe = $("#vsrcs");
+      iframe.src = myFunction(0);
+      $("#vidsrcs").show();
+    });
+    //////////////////////////
+    function bgImage() {
+      var x = document.getElementById("bgImage");
+      if (x.style.display === "none") {
+        x.style.display = "block";
+      } else {
+        document.getElementById("bgImage").remove();
+        //    x.style.display = "none";
+        $(".playbtnx").hide();
+      }
+    }
+    /////////////////////////////////
+    function toggleBar() {
+      var x = document.getElementById("vidsrcs");
+      if (x.style.display === "none") {
+        x.style.display = "block";
+        document.getElementById('vsrcs').style.height = "90%";
+        $(".showbar").hide();
+      } else {
+        x.style.display = "none";
+        document.getElementById('vsrcs').style.height = "100%";
+        $(".showbar").show();
+      }
+    }
+  </script>
+</body>
+
+</html>
