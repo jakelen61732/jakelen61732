@@ -24,12 +24,18 @@
       margin: 0;
       padding: 0;
     }
-    .playbtnx { 
-      height: 200px;
+    .playbtnx {
+      text-align:center;
+      cursor:pointer;
+      width:100px;
+      top:42%;
+      height: 100px;
       position: relative;
     }
-
     .playbtnx img {
+      width:100px;
+      height:100px;
+      text-align:center;
       margin: 0;
       position: absolute;
       top: 50%;
@@ -229,8 +235,8 @@
     </div>
 
     <div id="bgImage" class="loading" style="display:block;"></div>
-    <div onclick="bgImage();" class="playbtnx" style="position:absolute; top:42%; width:100px; text-align:center; cursor:pointer;">
-      <img src="./images/play4.png" style="width:100px; height:100px; text-align:center;" alt="play icon">
+    <div onclick="bgImage();" class="playbtnx">
+      <img src="./images/play4.png" alt="play icon">
     </div>
 
     <iframe id="vsrcs" src="about:blank" width="100%" height="90%" frameborder="0" scrolling="no"
