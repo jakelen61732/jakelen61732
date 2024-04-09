@@ -52,6 +52,7 @@
       bottom: 0px;
       right: 0px;
       left: 0px;
+      animation: enter 3s forwards;
     }
 
     iframe {
@@ -182,12 +183,25 @@
         -webkit-transform: scale(0.9);
         -ms-transform: scale(0.9);
         transform: scale(0.9);
+      }  
+    }
+    
+    @keyframes enter {
+      0% {
+        opacity: 0;
+        transform: scale(0.9);
+      }
+
+      100% {
+        opacity: 1;
+        transform: scale(1);
       }
     }
-
+    
     .mhide {
       display: none;
     }
+    
   </style>
 </head>
 
