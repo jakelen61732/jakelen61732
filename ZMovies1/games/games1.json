@@ -1,5 +1,4 @@
-{
-  [
+[
     {
       "name": "TNT Bomb",
       "category": "arcade",
@@ -637,5 +636,4 @@
       "url": "https://play.famobi.com/alien-attack",
       "thumb1": "https://ik.imagekit.io/sjyfpsp1n/portal/html5games/images/tmp/180/AlienAttackTeaser.jpg"
     }
-  ]
-}
+]
