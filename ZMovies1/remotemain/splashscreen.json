@@ -7,6 +7,6 @@
    "tmdbApiKey": "V1ZSTk5FOVVWVEpQUjFFMFQxZFZlbHBYV1RGYVYwNXJUV3BWZWxwWFdUVmFWRWsxVFdwck5WcEhUVDA9",
    "detectors": ".m3u8/.mp4/.mkv/.video-delivery.net/.cloudflarestorage.com/.stream3u8.com",
    "adBlockFilter": "https://jakelen61732.github.io/jakelen61732/ZMovies1/remotemain/adBlockFilter.txt",
-   "overrideUrl": "streambucket/flixembed",
+   "overrideUrl": "streambucket/flixembed/games.cdn.famobi.com",
    "not_used": "https://jakelen61732.github.io/jakelen61732/ZMovies1/remotemain/download.html"
 }
