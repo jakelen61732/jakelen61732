@@ -35,7 +35,7 @@ adsco.re
 /adManager.js
 vast.yomeno.xyz
 doubleclick.net
-googlesyndication.com/pagead/
+pagead2.googlesyndication.com
 /fuckadblock.
 sadjklq.com
 marazma.com
@@ -82,3 +82,5 @@ taxismaned.top
 acscdn.com
 .top/cuid/?
 p.jwpcdn.com/player/plugins/vast/
+btloader.com
+yollamedia.com
