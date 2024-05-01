@@ -66,12 +66,6 @@
          "Name": "Server 11 (PH)",
          "Embed": false,
          "Wide": false
-      },
-      {
-         "Api": "WVVoU01HTklUVFpNZVRsdlpWaENiR050TVd4a1NFcDJZMGRzYWt4WFduQmFNMVo1VEdwQmQwMUlaR3haYldoMll6TlNhR05JUVhWWgpNamwwVERJeGRtUnRiR3hNTTNSVlZGVlNRd3BtVXpWdlpFY3hjdz09",
-         "Name": "Server 12 (Unmaintained) Use Server 11",
-         "Embed": false,
-         "Wide": false
       }
    ],
    "SServers": [
@@ -118,32 +112,20 @@
          "Wide": false
       },
       {
-         "Api": "WVVoU01HTklUVFpNZVRoNFRXcE9kR0l6V25CYVV6VnpXVmhSZGxwWE1XbGFWMUl3WkdrNU4xTlZNVVZSYmpBOQ==",
-         "Name": "Server 08",
-         "Embed": true,
-         "Wide": false
-      },
-      {
          "Api": "WVVoU01HTklUVFpNZVRsdFlrZHNORnBYTVdsYVYxRjFXVEk1ZEV3elduQmFSMVoyVEROMFZWUlZVa05tV0U0M1ZUTXhiR1V3VmpsTWR6MDk=",
-         "Name": "Server 09 (PH)",
+         "Name": "Server 08 (PH)",
          "Embed": false,
          "Wide": false
       },
       {
          "Api": "WVVoU01HTklUVFpNZVRsMFlqTmFjRnBYYUdoWmFUVXdZbms1YkdKWFNteGFRemszVmtVeFJWRnVN\nSFpsTVU0NVRETjBSbVpSUFQwPQ==",
-         "Name": "Server 10 (PH)",
+         "Name": "Server 09 (PH)",
          "Embed": false,
          "Wide": false
       },
       {
          "Api": "WVVoU01HTklUVFpNZVRrMllsYzVNbUZYVm5wTVYwWjNZVk0xY21GdFJqVmFSMVl5VEc1b05XVnBPVEJpVjFKcFRETlNNa3d6ZEZWVQpWVkpEWmxoT04xVXpNV3hsTUZZNUNnPT0K",
-         "Name": "Server 11 (PH)",
-         "Embed": false,
-         "Wide": false
-      },
-      {
-         "Api": "WVVoU01HTklUVFpNZVRsdlpWaENiR050TVd4a1NFcDJZMGRzYWt4WFduQmFNMVo1VEdwQmQwMUlaR3haYldoMll6TlNhR05JUVhWWgpNamwwVEROU01rd3pkRlZVVlZKRFpsaE9Od3BWTXpGc1pUQldPVXh0YURCaVYzYzk=",
-         "Name": "Server 12 (Unmaintained) Use Server 11",
+         "Name": "Server 10 (PH)",
          "Embed": false,
          "Wide": false
       }
