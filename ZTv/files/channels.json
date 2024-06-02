@@ -1,6 +1,5 @@
 {
-   "Version":"0.0.6",
-   "Channels1":[
+   "Channels1": [
       {
          "link": "WVVoU01HTklUVFpNZVRsd1RHMHhjV0ZETlhWbGFUbFVXVmN4ZW1SWE5XNVdSbHBSWWtoV2Vrd3lSbk5pUXpWMFRUTlZOQT09",
          "title": "SamsungTVPlus All Channels 🌏"
@@ -50,18 +49,95 @@
          "title": "SamsungTVPlus United States 🇺🇸"
       },
       {
-         "title": "PlutoTV All Channels 🌏",
-         "link": "WVVoU01HTklUVFpNZVRsd1RHMHhjV0ZETlhWbGFUbFJZa2hXTUdJeFVsZE1Na1p6WWtNMWRFMHpWVFE9"
+         "link": "WVVoU01HTklUVFpNZVRsd1RHMHhjV0ZETlhWbGFUbFJZa2hXTUdJeFVsZE1Na1p6WWtNMWRFMHpWVFE9",
+         "title": "PlutoTV All Channels 🌏"
       },
       {
-         "title": "Plex All Channels 🌏",
-         "link": "WVVoU01HTklUVFpNZVRsd1RHMHhjV0ZETlhWbGFUbFJZa2RXTkV3eVJuTmlRelYwVFROVk5BPT0="
+         "link": "WVVoU01HTklUVFpNZVRsd1RHMHhjV0ZETlhWbGFUbFJZa2hXTUdJeFVsZE1Na1o1VEcwd2VtUlVaejA9",
+         "title": "PlutoTV Argentina 🇦🇷"
+      },
+      {
+         "link": "WVVoU01HTklUVFpNZVRsd1RHMHhjV0ZETlhWbGFUbFJZa2hXTUdJeFVsZE1Na3A1VEcwd2VtUlVaejA9",
+         "title": "PlutoTV Brazil 🇧🇷"
+      },
+      {
+         "link": "WVVoU01HTklUVFpNZVRsd1RHMHhjV0ZETlhWbGFUbFJZa2hXTUdJeFVsZE1NazVvVEcwd2VtUlVaejA9",
+         "title": "PlutoTV Canada 🇨🇦"
+      },
+      {
+         "link": "WVVoU01HTklUVFpNZVRsd1RHMHhjV0ZETlhWbGFUbFJZa2hXTUdJeFVsZE1NazV6VEcwd2VtUlVaejA9",
+         "title": "PlutoTV Chile 🇨🇱"
+      },
+      {
+         "link": "WVVoU01HTklUVFpNZVRsd1RHMHhjV0ZETlhWbGFUbFJZa2hXTUdJeFVsZE1NbEpzVEcwd2VtUlVaejA9",
+         "title": "PlutoTV Germany 🇩🇪"
+      },
+      {
+         "link": "WVVoU01HTklUVFpNZVRsd1RHMHhjV0ZETlhWbGFUbFJZa2hXTUdJeFVsZE1NbEp5VEcwd2VtUlVaejA9",
+         "title": "PlutoTV Denmark 🇩🇰"
+      },
+      {
+         "link": "WVVoU01HTklUVFpNZVRsd1RHMHhjV0ZETlhWbGFUbFJZa2hXTUdJeFVsZE1NbFo2VEcwd2VtUlVaejA9",
+         "title": "PlutoTV Spain 🇪🇸"
+      },
+      {
+         "link": "WVVoU01HTklUVFpNZVRsd1RHMHhjV0ZETlhWbGFUbFJZa2hXTUdJeFVsZE1NbHA1VEcwd2VtUlVaejA9",
+         "title": "PlutoTV France 🇨🇵"
+      },
+      {
+         "link": "WVVoU01HTklUVFpNZVRsd1RHMHhjV0ZETlhWbGFUbFJZa2hXTUdJeFVsZE1NbVJwVEcwd2VtUlVaejA9",
+         "title": "PlutoTV Great Britain 🇬🇧"
+      },
+      {
+         "link": "WVVoU01HTklUVFpNZVRsd1RHMHhjV0ZETlhWbGFUbFJZa2hXTUdJeFVsZE1NbXd3VEcwd2VtUlVaejA9",
+         "title": "PlutoTV Italy 🇮🇹"
+      },
+      {
+         "link": "WVVoU01HTklUVFpNZVRsd1RHMHhjV0ZETlhWbGFUbFJZa2hXTUdJeFVsZE1NakUwVEcwd2VtUlVaejA9",
+         "title": "PlutoTV Mexico 🇲🇽"
+      },
+      {
+         "link": "WVVoU01HTklUVFpNZVRsd1RHMHhjV0ZETlhWbGFUbFJZa2hXTUdJeFVsZE1NalYyVEcwd2VtUlVaejA9",
+         "title": "PlutoTV Norway 🇧🇻"
+      },
+      {
+         "link": "WVVoU01HTklUVFpNZVRsd1RHMHhjV0ZETlhWbGFUbFJZa2hXTUdJeFVsZE1NMDVzVEcwd2VtUlVaejA9",
+         "title": "PlutoTV Sweden 🇸🇪"
+      },
+      {
+         "link": "WVVoU01HTklUVFpNZVRsd1RHMHhjV0ZETlhWbGFUbFJZa2hXTUdJeFVsZE1NMVo2VEcwd2VtUlVaejA9",
+         "title": "PlutoTV USA 🇺🇸"
+      },
+      {
+         "link": "WVVoU01HTklUVFpNZVRsd1RHMHhjV0ZETlhWbGFUbFJZa2RXTkV3eVJqRk1iVEI2WkZSblBRPT0=",
+         "title": "Plex Australia 🇦🇺"
+      },
+      {
+         "link": "WVVoU01HTklUVFpNZVRsd1RHMHhjV0ZETlhWbGFUbFJZa2RXTkV3eVRtaE1iVEI2WkZSblBRPT0=",
+         "title": "Plex Canada 🇨🇦"
+      },
+      {
+         "link": "WVVoU01HTklUVFpNZVRsd1RHMHhjV0ZETlhWbGFUbFJZa2RXTkV3eVZucE1iVEI2WkZSblBRPT0=",
+         "title": "Plex Spain 🇪🇸"
+      },
+      {
+         "link": "WVVoU01HTklUVFpNZVRsd1RHMHhjV0ZETlhWbGFUbFJZa2RXTkV3eU1UUk1iVEI2WkZSblBRPT0=",
+         "title": "Plex Mexico 🇲🇽"
+      },
+      {
+         "link": "WVVoU01HTklUVFpNZVRsd1RHMHhjV0ZETlhWbGFUbFJZa2RXTkV3eU5UWk1iVEI2WkZSblBRPT0=",
+         "title": "Plex New Zealand 🇳🇿"
+      },
+      {
+         "link": "WVVoU01HTklUVFpNZVRsd1RHMHhjV0ZETlhWbGFUbFJZa2RXTkV3elZucE1iVEI2WkZSblBRPT0=",
+         "title": "Plex USA 🇺🇸"
       }
    ],
-   "Channels2":[
+   "Channels2": [
       {
-         "title":"Demo Videos",
-         "link":"WVVoU01HTklUVFpNZVRseFdWZDBiR0pIVm5WT2FrVXpUWHBKZFZveWJEQmhTRlpwVEcxc2Rrd3ljR2hoTWxaeldsYzBNazFVWTNwTgphVGxoVmtoWmRscHRiSE5hV0UxMldrZFdkQXBpZVRWMFRUTlZOQT09"
+         "link": "WVVoU01HTklUVFpNZVRseFdWZDBiR0pIVm5WT2FrVXpUWHBKZFZveWJEQmhTRlpwVEcxc2Rrd3ljR2hoTWxaeldsYzBNazFVWTNwTgphVGxoVmtoWmRscHRiSE5hV0UxMldrZFdkQXBpZVRWMFRUTlZOQT09",
+         "title": "Demo Videos"
       }
-   ]
+   ],
+   "Version": "0.0.6"
 }
