@@ -23,3 +23,145 @@ https://cinemo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 http://palawan.usbx.me:1234/stream/localchannels/pbo/stream.m3u8?uid=2165350421&u=phcorner&p=767079084b76a3d8e37e67f318957d6c27d2f8c322a38df744a47e727270c3ba
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/rm3tJbL8/Myx-Logo-2021.webp",MYX
 https://myxnola-abscbn-ono.amagi.tv/index_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/NBA_TV_Philippines.png/1280px-NBA_TV_Philippines.png",NBA PHILIPPINES
+http://palawan.usbx.me:1234/stream/localchannels/nbatvph/stream.m3u8?uid=1581425633&u=phcorner&p=767079084b76a3d8e37e67f318957d6c27d2f8c322a38df744a47e727270c3ba
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/50PzDydS/PBA-Rush-logo.png",PBA RUSH
+http://palawan.usbx.me:1234/stream/localchannels/pbarush/stream.m3u8?uid=1879387706&u=phcorner&p=767079084b76a3d8e37e67f318957d6c27d2f8c322a38df744a47e727270c3ba
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/YSzYf8dV/One-Sports-logo.png",ONE SPORTS
+http://palawan.usbx.me:1234/stream/localchannels/onesports/stream.m3u8?uid=3495436509&u=phcorner&p=767079084b76a3d8e37e67f318957d6c27d2f8c322a38df744a47e727270c3ba
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/3NvXsGjQ/Cartoonito-Logo-2021-svg-1.png",CARTOONITO
+https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/pdLD24QZ/PBS-Kids-logo-2022.png",PBS KIDS
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/ZR9pNNMv/Moonbug2nd-Logo.png",MOONBUG (KIDS)
+https://moonbug-rokuus.amagi.tv/playlist404-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/VvntG81Y/Zoo-Moo-Kids.png",ZOOMOO (KIDS)
+https://zoomoo-samsungau.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/WbcgDh6t/Cartoon-Network-2010-logo.webp",CARTOON NETWORK
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/tJNTnCpV/Lotus-TV-Macau-logo-removebg-preview.png",LOTUS MACAU
+https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/nr2FcRG4/Sony-Movies-Logo-svg.webp",SONY MOVIES
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/prWv7QMp/Rakuten-TV-logo-svg.webp",RAKUTEN TV MOVIE
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/2000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/501WY50n/images-removebg-preview.png",MOVIE SPHERE
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/hPhWdtDW/Redbox-logo-2017-svg.webp",REDBOX MOVIES
+https://spotlight-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/65CSR2kP/Discovery-Networks-logo.webp",DISCOVERY SCIENCE
+https://dplus.gammacdn.workers.dev/videos/96.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/QtBYMHg0/Discovery-Asia-logo-svg.webp",DISCOVERY ASIA
+https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/QxSQRj1t/2018-Animal-Planet-logo.png",ANIMAL PLANET
+https://dplus.gammacdn.workers.dev/videos/99.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/4y23Q2HJ/Dmax-tv-channel.png",DMAX
+https://dplus.gammacdn.workers.dev/videos/109.m3u8
+#EXTINF:-1 channel-id="samsung-USBD270001633" tvg-id="USBD270001633" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD270001633_20240520T222906SQUARE.png" tvg-chno="1220" group-title="Movies" , Hallmark Movies & More
+https://i.mjh.nz/SamsungTVPlus/USBD270001633.m3u8
+#EXTINF:-1 channel-id="samsung-USBD17000117B" tvg-id="USBD17000117B" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000117B_20240520T223358SQUARE.png" tvg-chno="1230" group-title="Movies" , MovieSphere
+https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
+#EXTINF:-1 channel-id="samsung-USBA300017PK" tvg-id="USBA300017PK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300017PK_20240520T222742SQUARE.png" tvg-chno="1235" group-title="Movies" , Pluto TV Fantastic
+https://i.mjh.nz/SamsungTVPlus/USBA300017PK.m3u8
+#EXTINF:-1 channel-id="samsung-USAJ30000148W" tvg-id="USAJ30000148W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000148W_20240520T222614SQUARE.png" tvg-chno="1240" group-title="Movies" , CINEVAULT
+https://i.mjh.nz/SamsungTVPlus/USAJ30000148W.m3u8
+#EXTINF:-1 channel-id="samsung-USBB3200015M8" tvg-id="USBB3200015M8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200015M8_20240520T222842SQUARE.png" tvg-chno="1245" group-title="Movies" , CINEVAULT: Classics
+https://i.mjh.nz/SamsungTVPlus/USBB3200015M8.m3u8
+#EXTINF:-1 channel-id="samsung-USAJ26000054W" tvg-id="USAJ26000054W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ26000054W_20240520T222740SQUARE.png" tvg-chno="1250" group-title="Movies" , Paramount Movie Channel
+https://i.mjh.nz/SamsungTVPlus/USAJ26000054W.m3u8
+#EXTINF:-1 channel-id="samsung-USBB3200030CG" tvg-id="USBB3200030CG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200030CG_20240520T222810SQUARE.png" tvg-chno="1255" group-title="Movies" , The Rotten Tomatoes Channel
+https://i.mjh.nz/SamsungTVPlus/USBB3200030CG.m3u8
+#EXTINF:-1 channel-id="samsung-USBD700011RE" tvg-id="USBD700011RE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700011RE_20240520T222902SQUARE.png" tvg-chno="1260" group-title="Movies" , Gravitas Movies
+https://i.mjh.nz/SamsungTVPlus/USBD700011RE.m3u8
+#EXTINF:-1 channel-id="samsung-USBC3900018K6" tvg-id="USBC3900018K6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900018K6_20240520T223400SQUARE.png" tvg-chno="1265" group-title="Movies" , MyTime Movie Network
+https://i.mjh.nz/SamsungTVPlus/USBC3900018K6.m3u8
+#EXTINF:-1 channel-id="samsung-USBC2100007I2" tvg-id="USBC2100007I2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100007I2_20240520T222844SQUARE.png" tvg-chno="1270" group-title="Movies" , Chicken Soup for the Soul
+https://i.mjh.nz/SamsungTVPlus/USBC2100007I2.m3u8
+#EXTINF:-1 channel-id="samsung-USAJ30000122O" tvg-id="USAJ30000122O" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000122O_20240520T222734SQUARE.png" tvg-chno="1275" group-title="Movies" , NEW KMOVIES
+https://i.mjh.nz/SamsungTVPlus/USAJ30000122O.m3u8
+#EXTINF:-1 channel-id="samsung-USAJ34000175A" tvg-id="USAJ34000175A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ34000175A_20240520T222809SQUARE.png" tvg-chno="1280" group-title="Movies" , The Preview Channel
+https://i.mjh.nz/SamsungTVPlus/USAJ34000175A.m3u8
+#EXTINF:-1 channel-id="samsung-USAJ3000007MT" tvg-id="USAJ3000007MT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000007MT_20240520T222716SQUARE.png" tvg-chno="1285" group-title="Movies" , Maverick Black Cinema
+https://i.mjh.nz/SamsungTVPlus/USAJ3000007MT.m3u8
+#EXTINF:-1 channel-id="samsung-USAJ40000072X" tvg-id="USAJ40000072X" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ40000072X_20240520T222643SQUARE.png" tvg-chno="1290" group-title="Movies" , FilmRise Free Movies
+https://i.mjh.nz/SamsungTVPlus/USAJ40000072X.m3u8
+#EXTINF:-1 channel-id="samsung-USBB3200020ID" tvg-id="USBB3200020ID" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200020ID_20240520T222641SQUARE.png" tvg-chno="1292" group-title="Movies" , FilmRise Action
+https://i.mjh.nz/SamsungTVPlus/USBB3200020ID.m3u8
+#EXTINF:-1 channel-id="samsung-USBA3000158L" tvg-id="USBA3000158L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000158L_20240520T214616SQUARE.png" tvg-chno="3610" group-title="Kids" , Nick Pluto TV
+https://i.mjh.nz/SamsungTVPlus/USBA3000158L.m3u8
+#EXTINF:-1 channel-id="samsung-USBB11000015Q" tvg-id="USBB11000015Q" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB11000015Q_20240520T214612SQUARE.png" tvg-chno="3627" group-title="Kids" , Moonbug
+https://i.mjh.nz/SamsungTVPlus/USBB11000015Q.m3u8
+#EXTINF:-1 channel-id="samsung-US9000032J" tvg-id="US9000032J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US9000032J_20240528T020924SQUARE.png" tvg-chno="3630" group-title="Kids" , Blippi
+https://i.mjh.nz/SamsungTVPlus/US9000032J.m3u8
+#EXTINF:-1 channel-id="samsung-USBD50000048H" tvg-id="USBD50000048H" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD50000048H_20240520T214750SQUARE.png" tvg-chno="3633" group-title="Kids" , Caillou
+https://i.mjh.nz/SamsungTVPlus/USBD50000048H.m3u8
+#EXTINF:-1 channel-id="samsung-USBD42000124T" tvg-id="USBD42000124T" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD42000124T_20240520T214759SQUARE.png" tvg-chno="3636" group-title="Kids" , Fireman Sam
+https://i.mjh.nz/SamsungTVPlus/USBD42000124T.m3u8
+#EXTINF:-1 channel-id="samsung-USBD350002338" tvg-id="USBD350002338" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350002338_20240520T214742SQUARE.png" tvg-chno="3639" group-title="Kids" , Baby Einstein
+https://i.mjh.nz/SamsungTVPlus/USBD350002338.m3u8
+#EXTINF:-1 channel-id="samsung-USBD3500015R5" tvg-id="USBD3500015R5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500015R5_20240520T214850SQUARE.png" tvg-chno="3642" group-title="Kids" , Teletubbies
+https://i.mjh.nz/SamsungTVPlus/USBD3500015R5.m3u8
+#EXTINF:-1 channel-id="samsung-US300001UO" tvg-id="US300001UO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300001UO_20240520T214746SQUARE.png" tvg-chno="3645" group-title="Kids" , Barney and Friends
+https://i.mjh.nz/SamsungTVPlus/US300001UO.m3u8
+#EXTINF:-1 channel-id="samsung-USBC4400013R7" tvg-id="USBC4400013R7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400013R7_20240520T214748SQUARE.png" tvg-chno="3648" group-title="Kids" , Bob the Builder
+https://i.mjh.nz/SamsungTVPlus/USBC4400013R7.m3u8
+#EXTINF:-1 channel-id="samsung-USBC4400012QS" tvg-id="USBC4400012QS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400012QS_20240520T214845SQUARE.png" tvg-chno="3651" group-title="Kids" , Strawberry Shortcake
+https://i.mjh.nz/SamsungTVPlus/USBC4400012QS.m3u8
+#EXTINF:-1 channel-id="samsung-USBC44000072I" tvg-id="USBC44000072I" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC44000072I_20240520T214801SQUARE.png" tvg-chno="3654" group-title="Kids" , HappyKids
+https://i.mjh.nz/SamsungTVPlus/USBC44000072I.m3u8
+#EXTINF:-1 channel-id="samsung-USBD3300015BY" tvg-id="USBD3300015BY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300015BY_20240520T214826SQUARE.png" tvg-chno="3657" group-title="Kids" , Rainbow Ruby
+https://i.mjh.nz/SamsungTVPlus/USBD3300015BY.m3u8
+#EXTINF:-1 channel-id="samsung-USBC2400019EF" tvg-id="USBC2400019EF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2400019EF_20240520T214904SQUARE.png" tvg-chno="3660" group-title="Kids" , ZooMoo
+https://i.mjh.nz/SamsungTVPlus/USBC2400019EF.m3u8
+#EXTINF:-1 channel-id="samsung-USBD3300016AK" tvg-id="USBD3300016AK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300016AK_20240520T214830SQUARE.png" tvg-chno="3663" group-title="Kids" , Rev and Roll
+https://i.mjh.nz/SamsungTVPlus/USBD3300016AK.m3u8
+#EXTINF:-1 channel-id="samsung-USBB3600001R6" tvg-id="USBB3600001R6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3600001R6_20240520T214655SQUARE.png" tvg-chno="3666" group-title="Kids" , TG Junior
+https://i.mjh.nz/SamsungTVPlus/USBB3600001R6.m3u8
+#EXTINF:-1 channel-id="samsung-USBD3300019OU" tvg-id="USBD3300019OU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300019OU_20240520T214737SQUARE.png" tvg-chno="3669" group-title="Kids" , All Babies Channel
+https://i.mjh.nz/SamsungTVPlus/USBD3300019OU.m3u8
+#EXTINF:-1 channel-id="samsung-USBD3300013KV" tvg-id="USBD3300013KV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300013KV_20240520T214837SQUARE.png" tvg-chno="3672" group-title="Kids" , Sensical Jr
+https://i.mjh.nz/SamsungTVPlus/USBD3300013KV.m3u8
+#EXTINF:-1 channel-id="samsung-USBA2300001S8" tvg-id="USBA2300001S8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA2300001S8_20240520T214856SQUARE.png" tvg-chno="3687" group-title="Kids" , The LEGO Channel
+https://i.mjh.nz/SamsungTVPlus/USBA2300001S8
+#EXTINF:-1 channel-id="samsung-USBD3300020PM" tvg-id="USBD3300020PM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300020PM_20240520T214843SQUARE.png" tvg-chno="3690" group-title="Kids" , Sonic The Hedgehog
+https://i.mjh.nz/SamsungTVPlus/USBD3300020PM.m3u8
+#EXTINF:-1 channel-id="samsung-USBD33000180S" tvg-id="USBD33000180S" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD33000180S_20240520T214841SQUARE.png" tvg-chno="3693" group-title="Kids" , Slugterra
+https://i.mjh.nz/SamsungTVPlus/USBD33000180S.m3u8
+#EXTINF:-1 channel-id="samsung-USBD12000239N" tvg-id="USBD12000239N" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000239N_20240520T214835SQUARE.png" tvg-chno="3696" group-title="Kids" , Ryan and Friends
+https://i.mjh.nz/SamsungTVPlus/USBD12000239N.m3u8
+#EXTINF:-1 channel-id="samsung-USBD12000153A" tvg-id="USBD12000153A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000153A_20240520T214908SQUARE.png" tvg-chno="3702" group-title="Kids" , pocket.watch
+https://i.mjh.nz/SamsungTVPlus/USBD12000153A.m3u8
+#EXTINF:-1 channel-id="samsung-USBB1900004J9" tvg-id="USBB1900004J9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1900004J9_20240520T214715SQUARE.png" tvg-chno="3705" group-title="Kids" , Toon Goggles
+https://i.mjh.nz/SamsungTVPlus/USBB1900004J9.m3u8
+#EXTINF:-1 channel-id="samsung-USAK3508716A" tvg-id="USAK3508716A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508716A_20240520T214555SQUARE.png" tvg-chno="3708" group-title="Kids" , Kidoodle.TV
+https://i.mjh.nz/SamsungTVPlus/USAK3508716A.m3u8
+#EXTINF:-1 channel-id="samsung-USBD3300017XB" tvg-id="USBD3300017XB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300017XB_20240520T214839SQUARE.png" tvg-chno="3711" group-title="Kids" , Sensical Makers
+https://i.mjh.nz/SamsungTVPlus/USBD3300017XB.m3u8
+#EXTINF:-1 channel-id="samsung-USBD3300012VX" tvg-id="USBD3300012VX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300012VX_20240520T214906SQUARE.png" tvg-chno="3714" group-title="Kids" , batteryPOP
+https://i.mjh.nz/SamsungTVPlus/USBD3300012VX.m3u8
+#EXTINF:-1 channel-id="samsung-US800003JM" tvg-id="US800003JM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US800003JM_20240528T020922SQUARE.png" tvg-chno="3724" group-title="Kids" , BBC Kids
+https://i.mjh.nz/SamsungTVPlus/US800003JM.m3u8
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300011KQ_20240520T212856SQUARE.png" group-title="Music" , Vevo '70s
+https://i.mjh.nz/SamsungTVPlus/USBD300011KQ.m3u8
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300012YC_20240520T212858SQUARE.png" group-title="Music" , Vevo '80s
+https://i.mjh.nz/SamsungTVPlus/USBD300012YC.m3u8
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000133M_20240520T212900SQUARE.png" group-title="Music" , Vevo '90s
+https://i.mjh.nz/SamsungTVPlus/USBD3000133M.m3u8
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400015F5_20240520T212904SQUARE.png" group-title="Music" , Vevo 2K
+https://i.mjh.nz/SamsungTVPlus/USBB4400015F5.m3u8
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20240520T212902SQUARE.png" group-title="Music" , Vevo 2010s
+https://i.mjh.nz/SamsungTVPlus/USBD120002431.m3u8
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20240520T212918SQUARE.png" group-title="Music" , Vevo Retro Rock
+https://i.mjh.nz/SamsungTVPlus/USBD3000145P.m3u8
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600015GF_20240520T212912SQUARE.png" group-title="Music" , Vevo Latino
+https://i.mjh.nz/SamsungTVPlus/USBC3600015GF.m3u8
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600002EK_20240520T212910SQUARE.png" group-title="Music" , Vevo Hip-Hop
+https://i.mjh.nz/SamsungTVPlus/USBC3600002EK.m3u8
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900009K5_20240520T212916SQUARE.png" group-title="Music" , Vevo R&B
+https://i.mjh.nz/SamsungTVPlus/USBC3900009K5.m3u8
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600001RQ_20240520T212906SQUARE.png" group-title="Music" , Vevo Country
+https://i.mjh.nz/SamsungTVPlus/USBC3600001RQ.m3u8
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600008WY_20240520T212914SQUARE.png" group-title="Music" , Vevo Pop
+https://i.mjh.nz/SamsungTVPlus/USBC3600008WY.m3u8
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200008GL_20240520T212908SQUARE.png" group-title="Music" , Vevo Features
+https://i.mjh.nz/SamsungTVPlus/USBD1200008GL.m3u8
