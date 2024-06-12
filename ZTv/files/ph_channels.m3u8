@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/ydVRx9yH/tv5.webp",TV 5 HD
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/8ccrBSYX/gtv.png",GTV
-http://115.147.19.183:8087/1d9f6t42.m3u8
+https://mytv.enicsnet.com/hls/stream2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/X7ZCrndp/kapamilya-channel.png",KAPAMILYA CHANNEL
 http://palawan.usbx.me:1234/stream/localchannels/kapamilyachannel/stream.m3u8?uid=3121043018&u=phcorner&p=767079084b76a3d8e37e67f318957d6c27d2f8c322a38df744a47e727270c3ba
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/8PqrWxmw/gma-logo.png",GMA
-http://115.147.19.183:8086/amgstream.m3u8
+https://mytv.enicsnet.com/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/qMCNkjHK/a2z-logo.jpg",A2Z
 http://palawan.usbx.me:1234/stream/localchannels/a2z/stream.m3u8?uid=527818726&u=phcorner&p=767079084b76a3d8e37e67f318957d6c27d2f8c322a38df744a47e727270c3ba
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/Njq5LmQz/rptv-logo.png",RPTV
@@ -16,7 +16,7 @@ https://ssh101-fl.bozztv.com/ssh101/dreamtvph/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/sgqKMnMR/images.png",ANC HD
 https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/g2W8QfLj/Cinema-One-2013-logo.png",CINEMA ONE
-https://cinemaone-abscbn-ono.amagi.tv/index_3.m3u8
+https://cinemaone-abscbn-ono.amagi.tv/index_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/ZYw89fQD/cinemo.png",CINEMO!
 https://cinemo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/cJ1Y4wmN/pbo-box-office-logo.png",PBO
@@ -28,7 +28,7 @@ http://palawan.usbx.me:1234/stream/localchannels/nbatvph/stream.m3u8?uid=1581425
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/50PzDydS/PBA-Rush-logo.png",PBA RUSH
 http://palawan.usbx.me:1234/stream/localchannels/pbarush/stream.m3u8?uid=1879387706&u=phcorner&p=767079084b76a3d8e37e67f318957d6c27d2f8c322a38df744a47e727270c3ba
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/YSzYf8dV/One-Sports-logo.png",ONE SPORTS
-http://palawan.usbx.me:1234/stream/localchannels/onesports/stream.m3u8?uid=3495436509&u=phcorner&p=767079084b76a3d8e37e67f318957d6c27d2f8c322a38df744a47e727270c3ba
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/onesportsplushd_qp_6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/3NvXsGjQ/Cartoonito-Logo-2021-svg-1.png",CARTOONITO
 https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/pdLD24QZ/PBS-Kids-logo-2022.png",PBS KIDS
