@@ -20,7 +20,7 @@ https://cinemaone-abscbn-ono.amagi.tv/index_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/ZYw89fQD/cinemo.png",CINEMO!
 https://cinemo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/cJ1Y4wmN/pbo-box-office-logo.png",PBO
-http://palawan.usbx.me:1234/stream/localchannels/pbo/stream.m3u8?uid=2165350421&u=phcorner&p=767079084b76a3d8e37e67f318957d6c27d2f8c322a38df744a47e727270c3ba
+http://iptvport.net:25461/live/Lucena95/Lucena25/1908703.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/rm3tJbL8/Myx-Logo-2021.webp",MYX
 https://myxnola-abscbn-ono.amagi.tv/index_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/NBA_TV_Philippines.png/1280px-NBA_TV_Philippines.png",NBA PHILIPPINES
