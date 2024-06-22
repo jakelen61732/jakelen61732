@@ -1,8 +1,10 @@
 {
-   "API":"https://jakelen61732.github.io/jakelen61732/Z%20Encoder/download.html",
    "version": "0.0.3",
    "allowedUseDev": true,
    "maintenanceMode": false,
+   "hideButton": true,
+   "directWatch": false,
+   "API":"https://jakelen61732.github.io/jakelen61732/Z%20Encoder/download.html",
    "remoteImageUrl": "https://jakelen61732.github.io/jakelen61732/zmovies/assets/images/ic_splash.png",
    "tmdbApiKey": "V1ZSTk5FOVVWVEpQUjFFMFQxZFZlbHBYV1RGYVYwNXJUV3BWZWxwWFdUVmFWRWsxVFdwck5WcEhUVDA9",
    "detectors": ".m3u8/.mp4/.mkv/.video-delivery.net/.cloudflarestorage.com/.stream3u8.com",
