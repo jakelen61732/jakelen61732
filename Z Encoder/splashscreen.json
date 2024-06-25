@@ -9,15 +9,15 @@
    "detectors": ".m3u8/.mp4/.mkv/.video-delivery.net/.cloudflarestorage.com/.stream3u8.com",
    "adBlockFilter": "https://jakelen61732.github.io/jakelen61732/Z%20Encoder/adBlockFilter.txt",
    "overrideUrl": "streambucket/streamug/games.cdn.famobi.com",
-   "app_ad_id": "ca-app-pub-6622608250152053~2161560950",
-   "app_open_ad_unit_id": "ca-app-pub-6622608250152053/7451639980",
-   "native_ad_unit_id": "ca-app-pub-6622608250152053/6993309138",
-   "rewarded_ad_unit_id": "ca-app-pub-6622608250152053/1369662965",
-   "inters_ad_unit_id1": "ca-app-pub-6622608250152053/2087632667",
+   "app_ad_id": "ca-app-pub-3940256099942544~3347511713",
+   "app_open_ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
+   "native_ad_unit_id": "ca-app-pub-3940256099942544/2247696110",
+   "rewarded_ad_unit_id": "ca-app-pub-3940256099942544/5224354917",
+   "inters_ad_unit_id1": "ca-app-pub-3940256099942544/1033173712",
    "inters_ad_unit_id2": "ca-app-pub-3940256099942544/1033173712",
    "banner_ad_unit_id5": "ca-app-pub-3940256099942544/6300978111",
    "banner_ad_unit_id4": "ca-app-pub-3940256099942544/6300978111",
    "banner_ad_unit_id3": "ca-app-pub-3940256099942544/6300978111",
    "banner_ad_unit_id2": "ca-app-pub-3940256099942544/6300978111",
-   "banner_ad_unit_id1": "ca-app-pub-6622608250152053/3357316452"
+   "banner_ad_unit_id1": "ca-app-pub-3940256099942544/6300978111"
 }
