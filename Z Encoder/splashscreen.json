@@ -1,6 +1,7 @@
 {
    "version": "0.2.7",
    "allowedUseDev": true,
+   "isProtected": false,
    "maintenanceMode": false,
    "directWatch": true,
    "API":"https://jakelen61732.github.io/jakelen61732/Z%20Encoder/download.html",
