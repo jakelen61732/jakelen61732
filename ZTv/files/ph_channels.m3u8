@@ -4,15 +4,15 @@ https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd651
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/ydVRx9yH/tv5.webp",TV 5 HD
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/8ccrBSYX/gtv.png",GTV
-https://xigncode.enics.cloud/hls/2gv/index.m3u8
+https://host.enicsnet.com/hls/gtvnixigncode/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/X7ZCrndp/kapamilya-channel.png",KAPAMILYA CHANNEL
 http://palawan.usbx.me:1234/stream/localchannels/kapamilyachannel/stream.m3u8?uid=3121043018&u=phcorner&p=767079084b76a3d8e37e67f318957d6c27d2f8c322a38df744a47e727270c3ba
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/8PqrWxmw/gma-logo.png",GMA
 https://xigncode.enics.cloud/hls/1ga/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/qMCNkjHK/a2z-logo.jpg",A2Z
-http://palawan.usbx.me:1234/stream/localchannels/a2z/stream.m3u8?uid=527818726&u=phcorner&p=767079084b76a3d8e37e67f318957d6c27d2f8c322a38df744a47e727270c3ba
+http://45.89.149.184:9111/stream/kapamilya/a2z/master.m3u8?u=enics&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/Njq5LmQz/rptv-logo.png",RPTV
-http://palawan.usbx.me:1234/stream/localchannels/rptv/stream.m3u8?uid=1650094768&u=phcorner&p=767079084b76a3d8e37e67f318957d6c27d2f8c322a38df744a47e727270c3ba
+http://45.89.149.184:9111/stream/kapamilya/rptv/master.m3u8?u=enics&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/zv0TyPvZ/unnamed-removebg-preview.png",DREAM TV
 https://ssh101-fl.bozztv.com/ssh101/dreamtvph/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/sgqKMnMR/images.png",ANC HD
@@ -22,13 +22,13 @@ https://cinemaone-abscbn-ono.amagi.tv/index_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/ZYw89fQD/cinemo.png",CINEMO!
 https://cinemo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/cJ1Y4wmN/pbo-box-office-logo.png",PBO
-http://iptvport.net:25461/live/Lucena95/Lucena25/1908703.m3u8
+http://45.89.149.184:9111/stream/kapamilya/pbo/stream.m3u8?uid=1596094517&u=enics&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/rm3tJbL8/Myx-Logo-2021.webp",MYX
 https://myxnola-abscbn-ono.amagi.tv/index_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/NBA_TV_Philippines.png/1280px-NBA_TV_Philippines.png",NBA PHILIPPINES
-http://palawan.usbx.me:1234/stream/localchannels/nbatvph/stream.m3u8?uid=1581425633&u=phcorner&p=767079084b76a3d8e37e67f318957d6c27d2f8c322a38df744a47e727270c3ba
+http://45.89.149.184:9111/stream/kapamilya/nbaphilippines/stream.m3u8?uid=1388637966&u=enics&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/50PzDydS/PBA-Rush-logo.png",PBA RUSH
-http://palawan.usbx.me:1234/stream/localchannels/pbarush/stream.m3u8?uid=1879387706&u=phcorner&p=767079084b76a3d8e37e67f318957d6c27d2f8c322a38df744a47e727270c3ba
+http://45.89.149.184:9111/stream/kapamilya/pbarush/stream.m3u8?uid=1229836659&u=enics&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/YSzYf8dV/One-Sports-logo.png",ONE SPORTS
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/onesportsplushd_qp_6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/3NvXsGjQ/Cartoonito-Logo-2021-svg-1.png",CARTOONITO
