@@ -14,9 +14,9 @@ http://45.89.149.184:9111/stream/kapamilya/a2z/master.m3u8?u=enics&p=84567e56fce
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/Njq5LmQz/rptv-logo.png",RPTV
 http://45.89.149.184:9111/stream/kapamilya/rptv/master.m3u8?u=enics&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/BuKo_Buhay_Komedya_Logo.jpg", BUKO
-https://zmovies1.wuaze.com/buko.m3u8
+http://45.89.149.184:9111/stream/kapamilya/buko/master.m3u8?u=enics&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/Sari-Sari_Channel_logo.png",SARI-SARI
-https://zmovies1.wuaze.com/sarisari.m3u8
+http://45.89.149.184:9111/stream/kapamilya/sarisari/master.m3u8?u=enics&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/sgqKMnMR/images.png",ANC HD
 https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/g2W8QfLj/Cinema-One-2013-logo.png",CINEMA ONE
@@ -36,9 +36,9 @@ http://45.89.149.184:9111/stream/kapamilya/pbarush/stream.m3u8?uid=1229836659&u=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/YSzYf8dV/One-Sports-logo.png",ONE SPORTS
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/onesportsplushd_qp_6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/PremierSports-ph.png",PREMIER SPORTS
-https://zmovies1.wuaze.com/PREMIER_SPORTS.m3u8
+https://dice-live-ap.akamaized.net/hls/live/2102446/220944-271466/exchange220944dfagp_220944_800/chunklist.m3u8?hdntl=exp=1720095692~acl=%2f*~id=51051a8d-ffa4-44f8-9aa5-bcf547e1c394~data=hdntl,dWlkPTY5azlzaXw3MDg1YzRjYS03NWMwLTQwMjItOTZmNC0xODQ1NjZjNWVmYmYmaXA9MTE1LjE0Ny4xOS4xODMmZXhwPTE3MjAwOTU3MjImZWlkPTIyMDk0NCZjaWQ9ZGNlLnRhcGdvJm9pZD0zMjU~hmac=4d9c7061a1a4426daec5ff06286b348cb2f59387e8fe0aada33a79d5313627dd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/W4GvcppL/TAP-Sports-channel-logo.png",TAP SPORTS
-https://zmovies1.wuaze.com/TAP_SPORTS.m3u8
+https://dice-live-ap.akamaized.net/hls/live/2102491/220939-271463/exchange220939yabjz_220939_800/chunklist.m3u8?hdntl=exp=1720095642~acl=%2f*~id=79a438a5-8052-4fd1-8ae9-5a3aa9b4b524~data=hdntl,dWlkPTY5azlzaXw3MDg1YzRjYS03NWMwLTQwMjItOTZmNC0xODQ1NjZjNWVmYmYmaXA9MTE1LjE0Ny4xOS4xODMmZXhwPTE3MjAwOTU2NzImZWlkPTIyMDkzOSZjaWQ9ZGNlLnRhcGdvJm9pZD0zMjU~hmac=3ad55e0feea2228cf29c7d61cd9301827c9e4c9f7e6b9fec475c955905c24bda
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/3NvXsGjQ/Cartoonito-Logo-2021-svg-1.png",CARTOONITO
 https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/pdLD24QZ/PBS-Kids-logo-2022.png",PBS KIDS
@@ -52,9 +52,9 @@ https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png",DREAMWORKS TAGALOG
 http://45.89.149.184:9111/stream/kapamilya/dreamworkstagalog/master.m3u8?u=enics&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Nickelodeon_2023_logo.png",NICKELODEON
-https://zmovies1.wuaze.com/NICKELODEON.m3u8
+https://dice-live-ap.akamaized.net/hls/live/2102404/224407-271475/exchange224407xuzfe_224407_800/chunklist.m3u8?hdntl=exp=1720095580~acl=%2f*~id=b246a2a7-e126-4208-a595-23279e2e402c~data=hdntl,dWlkPTY5azlzaXw3MDg1YzRjYS03NWMwLTQwMjItOTZmNC0xODQ1NjZjNWVmYmYmaXA9MTE1LjE0Ny4xOS4xODMmZXhwPTE3MjAwOTU2MDkmZWlkPTIyNDQwNyZjaWQ9ZGNlLnRhcGdvJm9pZD0zMjU~hmac=805ee6efafabf3a7445a469bd571de7fa198b614f6eefc7183c7ce9250333168
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png",NICK JR
-https://zmovies1.wuaze.com/NICK_JR.m3u8
+https://dice-live-ap.akamaized.net/hls/live/2102442/226987-271474/exchange226987smmkn_226987_800/chunklist.m3u8?hdntl=exp=1720095730~acl=%2f*~id=f4a5b7c1-5b79-4dcc-967d-e5bfe4121f82~data=hdntl,dWlkPTY5azlzaXw3MDg1YzRjYS03NWMwLTQwMjItOTZmNC0xODQ1NjZjNWVmYmYmaXA9MTE1LjE0Ny4xOS4xODMmZXhwPTE3MjAwOTU3NjAmZWlkPTIyNjk4NyZjaWQ9ZGNlLnRhcGdvJm9pZD0zMjU~hmac=a7a60a764941b66b89f7e991aadfe45eaefc7407f57c6824d0043e0b58dd0d65
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/2560px-Animax_logo.svg.png",ANIMAX
 http://45.89.149.184:9111/stream/kapamilya/animax/master.m3u8?u=enics&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/tJNTnCpV/Lotus-TV-Macau-logo-removebg-preview.png",LOTUS MACAU
