@@ -14,9 +14,9 @@ http://45.89.149.184:9111/stream/kapamilya/a2z/master.m3u8?u=enics&p=84567e56fce
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/Njq5LmQz/rptv-logo.png",RPTV
 http://45.89.149.184:9111/stream/kapamilya/rptv/master.m3u8?u=enics&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/BuKo_Buhay_Komedya_Logo.jpg", BUKO
-http://45.89.149.184:9111/stream/kapamilya/buko/master.m3u8?u=enics&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+https://zmovies1.wuaze.com/buko.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/Sari-Sari_Channel_logo.png",SARI-SARI
-http://45.89.149.184:9111/stream/kapamilya/sarisari/master.m3u8?u=enics&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+https://zmovies1.wuaze.com/sarisari.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/sgqKMnMR/images.png",ANC HD
 https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/g2W8QfLj/Cinema-One-2013-logo.png",CINEMA ONE
