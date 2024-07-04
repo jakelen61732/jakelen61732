@@ -6,7 +6,7 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/8ccrBSYX/gtv.png",GTV
 https://host.enicsnet.com/hls/gtvnixigncode/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/X7ZCrndp/kapamilya-channel.png",KAPAMILYA CHANNEL
-http://palawan.usbx.me:1234/stream/localchannels/kapamilyachannel/stream.m3u8?uid=3121043018&u=phcorner&p=767079084b76a3d8e37e67f318957d6c27d2f8c322a38df744a47e727270c3ba
+http://45.89.149.184:9111/stream/kapamilya/kapamilyachannel/master.m3u8?u=enics&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/8PqrWxmw/gma-logo.png",GMA
 https://host.enicsnet.com/hls/gmanixigncode/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/qMCNkjHK/a2z-logo.jpg",A2Z
