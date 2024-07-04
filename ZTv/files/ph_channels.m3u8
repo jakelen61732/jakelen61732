@@ -36,9 +36,9 @@ http://45.89.149.184:9111/stream/kapamilya/pbarush/stream.m3u8?uid=1229836659&u=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/YSzYf8dV/One-Sports-logo.png",ONE SPORTS
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/onesportsplushd_qp_6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/PremierSports-ph.png",PREMIER SPORTS
-https://dice-live-ap.akamaized.net/hls/live/2102446/220944-271466/exchange220944dfagp_220944_800/chunklist.m3u8?hdntl=exp=1720095692~acl=%2f*~id=51051a8d-ffa4-44f8-9aa5-bcf547e1c394~data=hdntl,dWlkPTY5azlzaXw3MDg1YzRjYS03NWMwLTQwMjItOTZmNC0xODQ1NjZjNWVmYmYmaXA9MTE1LjE0Ny4xOS4xODMmZXhwPTE3MjAwOTU3MjImZWlkPTIyMDk0NCZjaWQ9ZGNlLnRhcGdvJm9pZD0zMjU~hmac=4d9c7061a1a4426daec5ff06286b348cb2f59387e8fe0aada33a79d5313627dd
+https://zmovies1.wuaze.com/PREMIER_SPORTS.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/W4GvcppL/TAP-Sports-channel-logo.png",TAP SPORTS
-https://dice-live-ap.akamaized.net/hls/live/2102491/220939-271463/exchange220939yabjz_220939_800/chunklist.m3u8?hdntl=exp=1720095642~acl=%2f*~id=79a438a5-8052-4fd1-8ae9-5a3aa9b4b524~data=hdntl,dWlkPTY5azlzaXw3MDg1YzRjYS03NWMwLTQwMjItOTZmNC0xODQ1NjZjNWVmYmYmaXA9MTE1LjE0Ny4xOS4xODMmZXhwPTE3MjAwOTU2NzImZWlkPTIyMDkzOSZjaWQ9ZGNlLnRhcGdvJm9pZD0zMjU~hmac=3ad55e0feea2228cf29c7d61cd9301827c9e4c9f7e6b9fec475c955905c24bda
+https://zmovies1.wuaze.com/TAP_SPORTS.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/3NvXsGjQ/Cartoonito-Logo-2021-svg-1.png",CARTOONITO
 https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/pdLD24QZ/PBS-Kids-logo-2022.png",PBS KIDS
