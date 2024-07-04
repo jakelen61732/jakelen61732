@@ -35,6 +35,10 @@ http://45.89.149.184:9111/stream/kapamilya/nbaphilippines/stream.m3u8?uid=138863
 http://45.89.149.184:9111/stream/kapamilya/pbarush/stream.m3u8?uid=1229836659&u=enics&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/YSzYf8dV/One-Sports-logo.png",ONE SPORTS
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/onesportsplushd_qp_6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/PremierSports-ph.png",PREMIER SPORTS
+https://dice-live-ap.akamaized.net/hls/live/2102446/220944-271466/exchange220944dfagp_220944_800/chunklist.m3u8?hdntl=exp=1720095692~acl=%2f*~id=51051a8d-ffa4-44f8-9aa5-bcf547e1c394~data=hdntl,dWlkPTY5azlzaXw3MDg1YzRjYS03NWMwLTQwMjItOTZmNC0xODQ1NjZjNWVmYmYmaXA9MTE1LjE0Ny4xOS4xODMmZXhwPTE3MjAwOTU3MjImZWlkPTIyMDk0NCZjaWQ9ZGNlLnRhcGdvJm9pZD0zMjU~hmac=4d9c7061a1a4426daec5ff06286b348cb2f59387e8fe0aada33a79d5313627dd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/W4GvcppL/TAP-Sports-channel-logo.png",TAP SPORTS
+https://dice-live-ap.akamaized.net/hls/live/2102491/220939-271463/exchange220939yabjz_220939_800/chunklist.m3u8?hdntl=exp=1720095642~acl=%2f*~id=79a438a5-8052-4fd1-8ae9-5a3aa9b4b524~data=hdntl,dWlkPTY5azlzaXw3MDg1YzRjYS03NWMwLTQwMjItOTZmNC0xODQ1NjZjNWVmYmYmaXA9MTE1LjE0Ny4xOS4xODMmZXhwPTE3MjAwOTU2NzImZWlkPTIyMDkzOSZjaWQ9ZGNlLnRhcGdvJm9pZD0zMjU~hmac=3ad55e0feea2228cf29c7d61cd9301827c9e4c9f7e6b9fec475c955905c24bda
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/3NvXsGjQ/Cartoonito-Logo-2021-svg-1.png",CARTOONITO
 https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/pdLD24QZ/PBS-Kids-logo-2022.png",PBS KIDS
@@ -63,6 +67,20 @@ https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/2000.m3u8
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/hPhWdtDW/Redbox-logo-2017-svg.webp",REDBOX MOVIES
 https://spotlight-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/Tmc2021logo.png",TMC
+http://45.89.149.184:9111/stream/kapamilya/tmc/master.m3u8?u=enics&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/VNsW6gyN/HBO-Family.png",HBO FAMILY
+http://45.89.149.184:9111/stream/kapamilya/hbofamily/master.m3u8?u=enics&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO HD
+http://45.89.149.184:9111/stream/kapamilya/hbohd/master.m3u8?u=enics&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/m2bDK57h/HBO-Signature.png",HBO SIGNATURE
+http://45.89.149.184:9111/stream/kapamilya/hbosignature/master.m3u8?u=enics&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",HBO HITS
+http://45.89.149.184:9111/stream/kapamilya/hbohits/master.m3u8?u=enics&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1280px-Cinemax_%28Yellow%29.svg.png",CINEMAX
+http://45.89.149.184:9111/stream/kapamilya/cinemax/master.m3u8?u=enics&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/JhJMsNj9/Paramount-Network-2024.png",PARAMOUNT ENTERTAINMENT
+https://livecdn-iptv001.rumsport.com/stream/14839/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/65CSR2kP/Discovery-Networks-logo.webp",DISCOVERY SCIENCE
 https://dplus.gammacdn.workers.dev/videos/96.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/QtBYMHg0/Discovery-Asia-logo-svg.webp",DISCOVERY ASIA
@@ -71,3 +89,11 @@ https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
 https://dplus.gammacdn.workers.dev/videos/99.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/4y23Q2HJ/Dmax-tv-channel.png",DMAX
 https://dplus.gammacdn.workers.dev/videos/109.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/wjRdrX47/Aljazeera-eng.png",AL JAZEERA
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/1zp1m9QS/Fox-News-Live.png",FOX NEWS
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/zB7mh0vP/800px-CNN-svg.png",CNN HD
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" group-title="PH" tvg-logo="https://i.postimg.cc/vT2pqTWr/1024px-New-Bloomberg-Logo-svg.png",BLOOMBERG
+https://liveprodapnortheast.akamaized.net/ap1/Channel-APTVqvs-AWS-Tokyo-2/Source-APTVqvs-10000-1-swyg20-BP-HD-5-Y6282hwqf3C7_live.m3u8
