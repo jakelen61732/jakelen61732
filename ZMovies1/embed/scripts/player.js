@@ -62,9 +62,9 @@ function myFunction(position) {
             break;
         case 2:
             if (season && episode) {
-                go('https://vidsrc.to/embed/tv/' + idFromUrl + '/' + season + '/' + episode);
+                go('https://vidsrc.pro/embed/tv/' + idFromUrl + '/' + season + '/' + episode);
             } else {
-                go('https://vidsrc.to/embed/movie/' + idFromUrl);
+                go('https://vidsrc.pro/embed/movie/' + idFromUrl);
             }
             break;
         case 3:
